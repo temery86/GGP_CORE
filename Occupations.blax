@@ -1,0 +1,10 @@
+﻿DATAMODEL Occupations
+PRIMARY
+   description
+
+SECONDARY
+    OccupationTriKey = description(TRIGRAM)   
+FIELDS
+   iscocode: string[4]
+   description: string
+ENDMODEL

@@ -1,0 +1,1614 @@
+3313Account manager for private clients
+3313Account manager for wholesale clients
+3313Account manager, all other clients
+3313Accounting associate professional
+4311Accounts clerk
+4312Actuarial clerk
+2120Actuary
+2635Addictions counsellor
+3343Administrative secretary
+1219Administrative services department manager
+1219Administrative services manager
+2431Advertisement designer
+3431Advertisement photographer
+4110Advertising clerk
+2431Advertising copywriter
+1222Advertising department manager
+1222Advertising or public relations manager
+2431Advertising professional
+2152Aerospace engineer
+3322After sales manager
+1343Aged care services manager
+2132Agricultural advisor
+3142Agricultural inspector
+7233Agricultural machinery installer
+7233Agricultural machinery mechanic
+2132Agricultural scientist
+3142Agricultural substitute
+3142Agricultural technician
+7127Air conditioning installer or mechanic
+5414Air marshall
+3154Air traffic controller
+3155Air traffic safety technician
+4323Air transport clerk
+7232Aircraft assembler
+7232Aircraft electrician
+7232Aircraft engine technician
+2144Aircraft engineer
+7232Aircraft ground engineer
+9333Aircraft loader
+7232Aircraft mechanic
+5111Aircraft purser
+3153Airline pilot, co-pilot
+5111Airport attendant
+1324Airport manager
+6221Algae cultivator
+8322Ambulance driver (non paramedic)
+3221Ambulance paramedic
+8131Ammunition and explosive products machine operator
+2212Anaesthetist
+3256Anaesthetist assistant
+1311Animal breeding centre manager
+5164Animal carer (not in farms)
+1311Animal home manager
+5164Animal trainer
+2656Announcer on radio, television or other media
+3315Appraiser businesses
+3315Appraiser damage
+3315Appraiser real estate
+6221Aquaculture fishery worker
+1312Aquaculture manager
+2632Archaeologist
+3118Architectural or civil drafter
+2621Archivist
+8322Armored car driver
+2431Art director advertising
+7532Artificial flower maker
+3240Artificial inseminator
+2651Artist, painter
+3435Artistic and cultural associate professionals, all other
+3333Artists agent
+2355Arts teacher
+9129Asbestos removal worker
+8342Asphalt roller operator
+8219Assembler, all other
+9329Assembling helper
+8219Assembly line operator
+3222Assistant midwife 
+5161Astrologer, fortune-teller or related worker
+3315Auctioneer
+3521Audio equipment operator
+2266Audiologist
+5311Au-pair
+2641Author, writer
+3139Automated assembly line controller
+7213Automotive body repairer
+2144Automotive engineer
+7231Automotive glass installer or repairer
+3522Avionic communication systems technician
+5311Baby-sitter
+2131Bacteriologist
+3411Bailiff
+7512Baker
+8160Bakery products machine operator
+4110Bank clerk (back-office)
+4211Bank teller (front-office)
+5141Barber
+5132Bartender
+5142Bath or sauna attendant
+5419Beach patrolman 
+5142Beautician
+5169Bed and breakfast services worker
+6123Beekeeper
+8160Beverage production machine operator
+3139Beverage production process controller
+7515Beverage taster or grader
+7234Bicycle repairer
+9629Bike shed attendant
+4214Bills clerk
+7323Binding machine operator
+2131Biologist
+2131Biotechnologist
+7512Biscuit or cake maker
+7221Blacksmith
+7542Blaster
+8154Bleaching, dyeing or fabric cleaning machine operator
+7322Block printer
+7112Blocklayer
+8343Boat or derrick operator
+4323Boat transportation agent
+5414Bodyguard
+8182Boiler operator
+7213Boiler smith
+7323Bookbinder
+3313Bookkeeper
+4311Bookkeeping clerk
+4212Bookmaker
+4212Bookmaker clerk
+3351Border protection officer
+7223Boring machine operator
+8183Bottling or labelling machine operator
+5419Bouncer, doorman
+2141Brand manager, product manager
+7212Brazier
+7512Bread baker in manufacturing
+9611Breaker's yard worker
+8160Brewer
+7112Bricklayer
+7215Bridge cable worker
+8343Bridge tender
+3521Broadcasting equipment operator
+4311Brokerage clerk
+2161Building architect
+5153Building caretaker
+9313Building construction helper
+7133Building exterior cleaner
+7133Building exterior sandblaster
+7131Building painter
+3354Building permit licensing officer 
+7111Building repairer
+7411Building repairs electrician
+2142Building structure engineer
+7119Building wrecker
+8342Bulldozer operator
+8331Bus driver public transport
+8331Bus driver schoolchildren, elderly or handicapped persons
+7231Bus mechanic
+2421Business consultant
+1223Business development manager
+3354Business permit licensing officer
+1219Business services or administration manager, all other
+7511Butcher
+5152Butler
+3323Buyer
+3323Buyer agricultural products
+3323Buyer chemical products
+3323Buyer computer equipment
+3323Buyer educational materials
+3323Buyer pharmaceutical products
+3323Buyer technical products
+3323Buyer, all other products or services
+7522Cabinet-maker
+8343Cable car operator
+8350Cable transmitter
+4222Call centre agent inbound
+5244Call centre agent outbound
+1439Call centre manager
+7311Camera and photographic equipment repairer
+3521Camera operator
+8322Car driver
+7231Car mechanic
+9629Car parking attendant
+3322Car seller
+7231Car tyres mechanic
+9122Car wash attendant, car washer
+2212Cardiologist
+2423Careers advisor
+7115Carpenter
+9313Carpenter helper
+9129Carpet or furniture cleaner
+7322Carpet printer
+8152Carpets machine operator
+2165Cartographer
+3353Caseworker eligibility program beneficials
+1431Casino or betting manager
+4212Casino worker
+1412Catering manager
+5120Catering worker
+6121Cattle farmer 
+9212Cattle station helper
+7114Cement finisher
+7115Cement mason
+8114Cement, stone or other mineral products machine operator
+7315Ceramics decorator
+8160Cereal products machine operator
+8343Chair-lift operator
+6210Charcoal burner or related worker
+2221Charge nurse
+5230Check-out operator
+7513Cheese maker
+3434Chef cook
+2145Chemical engineer
+3116Chemical engineering technician
+8131Chemical products plant or machine operator, all other
+3133Chemical products process controller
+2113Chemist
+7512Chewing-gum maker
+1341Child care services manager
+5311Child care worker
+2221Children's nurse
+7133Chimney sweep
+5120Chinese food cook
+2264Chiropractor
+7512Chocolate maker
+8160Chocolate products machine operator
+2652Choirmaster, music conductor
+2653Choreographer
+7516Cigar maker
+8160Cigarette production machine operator
+1111City councillor, county councillor
+2142Civil engineer
+3112Civil engineering technician
+4312Claims adjuster
+9112Cleaner aircraft
+9122Cleaner cruise ships, ferries
+9112Cleaner in hotels
+9112Cleaner in offices, schools or other establishments
+9129Cleaner laboratory equipment
+9129Cleaner of boilers, tanks
+9122Cleaner train, tram, metro, bus
+9129Cleaning worker, all other
+3331Clearing broker
+4419Clerk, all other
+4222Client information clerk
+4229Client information worker, all other
+2112Climatologist
+3314Clinical research associate
+9629Cloak room attendant
+7311Clock maker
+7311Clock repairer
+2659Clown, acrobat, magician, hypnotist
+8189CNC operator
+8331Coach driver
+5419Coast guard
+6222Coastal waters fisherman
+8160Cocoa processing machine operator
+4413Coding clerk
+8160Coffee processing machine operator
+9333Coffin bearer
+2641Columnist, commentator
+2163Commercial products designer
+1221Commercial, sales or marketing manager
+1100Commissioned officer armed forces
+3311Commodity broker
+2431Communication professional
+1222Communications department manager
+3253Community health worker
+3412Community service worker
+1120Company director, chief executive >500 employees
+1120Company director, chief executive 10-50 employees
+1120Company director, chief executive 50-500 employees
+2211Company doctor
+3221Company nurse
+2411Compliance officer
+7321Compositor
+3513Computer hardware technician
+3513Computer network technician
+3513Computer systems technician
+7114Concrete placer
+7114Concrete products caster
+7114Concrete steel worker
+7512Confectionery maker
+3332Conference or event organiser
+7112Construction block mason
+1323Construction company manager
+3123Construction contractor
+3123Construction designer
+7233Construction machinery mechanic
+3112Construction or building inspector
+3123Construction site manager
+7131Construction spray painter
+3123Construction work scheduling clerk
+4222Contact centre information clerk
+2267Contact lens specialist
+3131Control room operator power plant
+3521Control-room equipment operator
+8343Conveyor operator
+5120Cook, all other
+7127Cooling or freezing installer or mechanic
+7213Coppersmith, tinsmith
+3313Cost estimator
+5246Counter attendant cafeteria, lunchroom
+5246Counter attendant snack counter
+4211Counter clerk
+6210Countryside or park ranger
+4412Courier
+3411Court clerk
+6121Cow herder or shepherd
+7549Craft or related worker, all other
+8343Crane operator (in construction and engineering)
+8343Crane operator (in port)
+3259Creative therapist
+5311Creche nurse
+3312Credit analyst
+4312Credit authorizer
+4312Credit clerk
+3313Credit counselor
+5419Crossing guard
+4212Croupier
+8112Crushing machine operator
+8131Crushing, grinding or chemical mixing machine operator
+1431Cultural centre manager
+7533Curtain sewer
+4222Customer service representative
+3351Customs inspector
+4412Cycle courier
+6121Dairy farmer
+8160Dairy products machine operator
+3139Dairy-products process controller
+2653Dancer
+7422Data communication lines or cables installer
+4132Data entry operator
+2521Database administrator (dba)
+2521Database designer
+2529Database or network professional, all other
+4214Debt, rent or cash collector
+7131Decorative painter glass, ceramics
+6223Deep-sea fishery worker
+2120Demographer
+9313Demolition helper
+7119Demolition worker
+3251Dental assistant
+3251Dental hygienist
+3214Dental prosthesis technician
+2261Dentist
+2212Dentist, dentist surgeon
+1219Department manager, all other
+1420Department store manager
+7321Desktop publisher, dtp worker
+7313Diamond cutter
+7222Die maker
+7231Diesel engine mechanic
+2265Dietician
+1112Diplomat
+3343Director's secretary
+2656Disc jockey
+9412Dishwasher
+3254Dispensing optician
+3432Display decorator
+1324Distribution centre or warehouse manager
+2221District nurse
+7541Diver sponge, oysters, pearls
+7541Diver, underwater worker
+2622Documentalist
+9111Domestic cleaner
+9111Domestic help (private homes)
+5152Domestic housekeeper 
+8343Donkey engine operator
+5414Doorkeeper
+5243Door-to-door salesperson
+3118Drafters, all other
+2355Drama teacher
+2142Dredging engineer
+8342Dredging machine operator
+8113Driller, oil and gas
+3132Drinking water treatment plant operator
+5249Driver-salesperson
+5165Driving examiner
+5163Driving instructor
+8157Dry cleaning machine operator
+8343Dry dock dockmaster
+7123Drywall installer, ceiling tile installer, or taper
+3521Dubbing equipment operator
+7535Dyer from leathers or skins
+2342Early childhood educator
+8113Earth drillers, except oil and gas
+8342Earth-moving equipment operator
+2631Econometrician
+2631Economist
+8160Edible nut processing machine operator
+8160Edible oil production machine operator
+2642Editor, all other
+2641Editor, books
+4120Editorial assistant
+2351Education administrator
+2351Education advisor
+2351Education methods specialist
+3412Education welfare officer
+2634Educationist
+5321Elderly aide
+7413Electric power line worker (low voltage)
+2151Electrical engineer
+3113Electrical engineering technician
+8212Electrical equipment assembler
+7412Electrical mechanic or fitter
+3118Electrical or electronics drafter
+7413Electrical power-line installer or repairer (high voltage)
+9313Electrician helper
+7411Electrician, all other
+3211Electrocardiograph equipment operator
+3211Electroencephalograph equipment operator
+8212Electronic equipment assembler
+7412Electronic home entertainment equipment service technician
+2152Electronics engineer
+3114Electronics engineering technician
+7421Electronics mechanic or servicer
+7411Elevator installer or repairer
+8343Elevator operator
+5163Embalmer
+7533Embroiding machine operator
+4222Emergency centre telephonist
+3221Emergency medical technician
+1114Employers' organisation official
+3333Employment agent
+7315Enameller
+1324Energy plant manager
+7233Engine or diesel mechanic (not in motor vehicles)
+8211Engine or machine assembler
+1120Engineering department manager
+4225Enquiry clerk
+3435Entertainer
+2143Environmental engineer
+3257Environmental inspector
+2133Environmental protection advisor
+2133Environmental scientist
+2632Epidemiologist
+3334Estate agent
+8342Excavating machine driver
+8322Executive chauffeur
+2642Fact checker
+9629Fair ground attendant
+3413Faith healer
+5311Family day care worker
+2635Family, child or marriage counselor
+7221Farrier
+2163Fashion designer
+5241Fashion model
+2163Fashion stylist, clothing advisor
+5120Fast-food branch manager
+9411Fast-food preparer
+7214Fence erector
+8151Fibre-preparing-, spinning- or winding machine operator
+9211Field crop or vegetable farm helper
+1311Field crop or vegetable farm manager
+6111Field crop or vegetable farm worker
+6111Field crop or vegetable farmer
+4415Filing clerk
+2655Film, stage or related actor
+2654Film, stage or related director
+2654Film, stage or related producer
+4312Finance clerk
+1211Finance manager
+3339Finance or sales associate professional, all other
+2412Financial advisor
+2413Financial analyst
+2411Financial auditor
+1211Financial department manager
+1346Financial services branch manager
+5411Fire fighter
+3112Fire inspector
+5222First line shop supervisor agricultural retail, pets and flowers
+5222First line shop supervisor automotive parts or fuel
+5222First line shop supervisor clothing, leatherwear
+5222First line shop supervisor construction equipments or components
+5222First line shop supervisor consumer electronics, household equipments
+5222First line shop supervisor food, beverages, tobacco products
+5222First line shop supervisor jewellery, luxury goods
+5222First line shop supervisor newspapers, books, music, videos, games
+5222First line shop supervisor sporting equipments, leisure products
+5222First line shop supervisor, all other
+8219First line supervisor assembly workers
+3341First line supervisor back-office clerks
+7515First line supervisor beverages workers
+5244First line supervisor call centre agents
+9112First line supervisor cleaning workers
+7119First line supervisor construction workers
+7515First line supervisor dairy workers
+5222First line supervisor drugstore
+6111First line supervisor field crop or vegetable farm workers
+5411First line supervisor fire fighters
+6222First line supervisor fishery workers
+7512First line supervisor food manufacturing workers
+5120First line supervisor food preparation workers
+5120First line supervisor food servicing workers
+6210First line supervisor forestry workers
+3341First line supervisor front-office tellers
+6113First line supervisor horticultural workers
+5151First line supervisor housekeeping workers
+6113First line supervisor landscaping, lawn service, or grounds keeping workers
+8189First line supervisor machine operators industrial production, manufacture, metal
+8189First line supervisor machine operators transport, logistics, port, airport
+7511First line supervisor meat or fish manufacturing workers
+7231First line supervisor mechanics, installers, or repairers
+8189First line supervisor mining workers
+3341First line supervisor office clerks
+8189First line supervisor oil or gas workers
+5329First line supervisor personal care workers
+3355First line supervisor police inspectors or detectives
+5412First line supervisor police officers
+5413First line supervisor prison guards
+3122First line supervisor process controllers industrial production, manufacture, metal
+5414First line supervisor protective service workers
+5221First line supervisor supermarket
+7516First line supervisor tobacco manufacturing workers
+6112First line supervisor tree or shrub crop farm workers
+8189First line supervisor utilities workers
+8189First line supervisor, all other machine operators
+5329First-aid attendant
+6222Fish farm worker
+6222Fish farmer
+7511Fish filleter, cutter, packer
+8160Fish products machine operator
+2132Fisheries advisor
+1312Fisheries manager
+9216Fishery or aquaculture helper
+3142Fishery technician
+6221Fishery worker, all other
+7511Fishmonger
+3423Fitness instructor
+7212Flame cutter
+5111Flight attendant
+7122Floor layer carpet, linoleum or cork
+7122Floor layer parquetry or wood
+3142Floral arranger, florist
+8112Flotation worker (mineral processing)
+3139Flour production process controller
+6113Flower binder
+9621Food deliverer
+9621Food porter
+5120Food preparation worker
+2132Food scientist
+5131Food server (not in restaurants)
+5131Food server restaurant
+7515Food taster or grader
+2269Foot therapist, podiatrist
+2120Forecaster energy needs
+2132Forestry advisor
+9215Forestry helper
+1311Forestry manager
+3143Forestry technician
+6210Forestry worker
+7221Forging-press worker
+8344Fork lift operator
+4414Form filling assistance clerk
+7221Foundry worker, metal caster
+9510Free newspaper distributor
+9333Freight handler, all other
+8160Fruit juice production machine operator
+7514Fruit or vegetable canning machine operator
+7514Fruit or vegetable preserver
+8160Fruit or vegetable processing machine operator
+9211Fruit, nut or tea picker
+3352Fundraiser
+5163Funeral service manager
+5163Funeral worker
+6129Fur animals farm worker
+6129Fur animals farmer
+8155Fur- or leather-preparing machine operator
+7522Furniture cabinetmaker
+3432Furniture designer
+7534Furniture upholsterer
+7531Furrier
+3433Gallery technician
+5221Garage manager
+4226Garage receptionist
+2162Garden architect
+9214Garden labourer
+6113Gardener (cemetery)
+6113Gardener (public parks)
+6113Gardener, all other
+8342Gas compressor or gas pumping station operator
+7411Gas fitter
+3134Gas plant operator
+2212Gastroenterologist
+2211General Practitioner
+2212Geneticist
+2632Geographer
+3111Geological or mineral technician
+3111Geological sample test technician
+2114Geologist, geophysicist
+7315Glass blower
+7315Glass cutter, grinder or moulder
+7315Glass decorating sandblaster
+7315Glass etcher
+8181Glass or ceramics plant operator
+7315Glass polisher
+7125Glazier
+7313Goldsmith, silversmith
+9629Golf caddie
+3354Government licensing official
+3352Government tax or excise official
+9129Graffiti cleaner
+8160Grain- or spice-milling machine operator
+2166Graphic designer
+5221Greengrocer, fruit trader
+6113Greenkeeper
+5221Grocer
+6113Groundsperson
+5414Guard industrial site
+7222Gunsmith
+2212Gynaecologist
+5141Hairdresser
+9121Hand launderer or presser
+9321Hand packer
+9621Hand/newspapers deliverer
+5321Handicapped aide
+1342Handicapped care services manager
+7318Handicraft leather worker
+7318Handicraft weaver, knitter, embroiderer
+7317Handicraft worker in basketry or brushes
+7318Handicraft worker in textile or related materials
+7317Handicraft worker in wood or related materials
+7319Handicraft worker, all other
+9622Handyperson
+8343Harbour master
+9211Harvest hand
+7531Hatter
+2642Head of news desk
+2141Health and safety engineer
+3259Health associate professional, all other
+7412Heating installer or mechanic
+3153Helicopter pilot
+9312Highway maintenance worker
+2633Historian
+8343Hoist operator
+5113Holiday hostess
+7411Home appliances service technician
+7411Home appliances technician
+5322Home care aide
+2230Homeopathic practitioner
+6121Horse breeder
+1431Horse riding centre manager
+3423Horse riding instructor
+6113Horticultural grower
+1311Horticultural production manager
+3142Horticultural technician
+6113Horticultural worker
+1342Hospital manager
+2221Hospital nurse
+5131Host or hostess
+1411Hostel or bed and breakfast manager
+4224Hotel front desk receptionist
+1411Hotel manager
+4224Hotel porter
+7111House builder
+7131House painter-decorator
+5151Housekeeper in hotels, offices or other establishments 
+1219Housekeeping department manager
+2423HR advisor
+1212HR manager
+1114Humanitarian organisation official
+6224Hunter, trapper
+2144Hydraulics engineer
+2212Hygienist, health officer
+2166Illustrator
+2642Image editor 
+3521Imaging technician
+3351Immigration officer
+5120Indian food cook
+5120Indonesian food cook
+2141Industrial engineer
+7233Industrial machinery erector-installer
+7233Industrial machinery mechanic
+2163Industrial products designer
+2423Industrial relations officer
+3139Industrial robot operator
+6222Inland waters fisherman
+8350Inland waterways ship captain
+3355Inquiry police agent
+3359Inspector cars and other vehicles
+3257Inspector gas, electricity installations, waterworks
+3359Inspector government property
+3359Inspector ports, airports, railways
+3359Inspector weights or measures
+3359Inspector, all other
+1120Installation or repairs department manager
+7233Installation or service technician conveyor belts
+5120Institution cook
+3422Instructor, all other sports
+7311Instrument maker
+7311Instrument repairer
+7124Insulation worker
+3321Insurance broker
+3315Insurance claims examiner
+4312Insurance clerk
+3321Insurance representative
+1346Insurance services branch manager
+2221Intensive care, recovery nurse
+3432Interior decorator
+3432Interior designer
+2411Internal auditor
+2431Internet marketeer
+2643Interpreter
+3353Interviewer eligibility programs government
+2412Investment advisor
+3311Investment broker
+4311Invoice clerk
+7214Iron worker
+2514IT applications programmer
+2411IT auditor
+3511IT computer repairer
+2511IT consultant
+1330IT department manager
+2519IT hardware engineer
+3513IT hardware testing technician
+2511IT information analyst
+1330IT manager
+2523IT network specialist
+3511IT operations technician
+2511IT project leader
+2434IT sales professional
+2512IT software engineer
+2519IT software tester
+2522IT systems administrator
+2511IT systems analyst
+2356IT trainer
+3512IT user support technician
+7112Jack hammer operator
+5153Janitor
+5120Japanese food cook
+7313Jewellery assembler
+2423Job analyst
+7115Joiner, all other
+7112Jointer
+2642Journalist
+2642Journalist-cameraman
+2612Judge
+7112Kit worker
+9412Kitchen helper
+7115Kitchen joiner
+1412Kitchen manager
+8152Knitting machine operator
+6129Laboratory animals carer
+1219Laboratory department manager
+3141Laboratory technician biology, biotechnology
+3119Laboratory technician concrete, asphalt, asbestos or related products
+3119Laboratory technician plastics, textiles, or chemicals
+3117Laboratory technician steel or other metals
+3141Laboratory technician water, milk, beverages
+3333Labour contractor
+3359Labour inspector
+2165Land surveyor
+2162Landscape architect
+2353Language teacher, all other
+9333Lashing and security worker
+7315Lathe or glass setter-operator
+7223Lathe or turning machine tool setter-operator
+5120Latin American food cook
+8157Laundry machine operator
+9112Lavatory attendant
+3411Law clerk
+2611Lawyer
+7532Leather pattern-maker or cutter
+8156Leather products assembler
+2619Legal advisor
+3411Legal associate professional
+2619Legal professional, all other
+3342Legal secretary
+9629Leisure park attendant
+1431Leisure park manager
+2622Librarian
+4411Library clerk
+1349Library manager
+3433Library technician
+3354Licensing officer
+5419Life-guard
+7412Lift mechanic
+3521Light or sound mixer (stages)
+3435Lighting technician
+2643Linguist
+8160Liqueur production machine operator
+6129Livestock breeder, all other
+3322Livestock dealer
+9212Livestock farm helper
+1311Livestock farm manager
+6121Livestock farm worker
+6121Livestock farmer
+7233Livestock machinery installer
+7233Livestock machinery mechanic
+3312Loan officer
+5412Local police officer
+8343Lock tender
+7222Locksmith, safe repairer
+8311Locomotive-engine driver
+7523Log grader 
+6210Logging worker
+2141Logistics engineer
+1324Logistics manager
+4321Logistics worker
+9520Lottery seller
+9621Luggage porter
+9329Machine feeder or off bearer
+8159Machine operator, all other leather products
+8159Machine operator, all other textile-products
+7223Machine tool setter or machine tool setter-operator
+7223Machine tool setter-operator 
+7233Machinery installer in paper industry
+8112Magnetic ore processing machine operator
+4412Mail clerk, mail machine operator
+7126Mains pipes layer-jointer
+7115Maintenance carpenter
+9313Maintenance helper
+7233Maintenance mechanic train and rail service
+7233Maintenance mechanic tram, metro
+7131Maintenance painter
+5142Make-up artist
+1322Manager oil or gas company
+1342Manager, all other health services
+1439Manager, all other services
+5142Manicurist
+1120Manufacturing department manager
+1321Manufacturing plant manager
+9329Manufacturing production helper
+7122Marble setter
+8160Margarine processing machine operator
+5245Marina attendant
+2144Marine engineer
+2431Market analyst
+2632Market researcher
+5211Market vendor
+4110Marketing clerk
+1221Marketing department manager
+2431Marketing professional
+3255Massage therapist
+3255Masseur
+2149Materials engineer
+4322Materials scheduling clerk
+5321Maternity carer
+3314Mathematical technician
+2120Mathematician
+7534Mattress maker
+1111Mayor, alderman
+8160Meat processing machine operator
+8160Meat products machine operator
+7511Meat products maker
+7511Meat products packer
+7511Meat slaughterer or deboner
+3118Mechanical drafter
+2144Mechanical engineer
+3115Mechanical engineering technician
+2642Media correspondent
+2642Media interviewer
+3256Medical assistant
+3212Medical laboratory technician
+2212Medical practitioner, all other specialists
+3214Medical prosthetic technician
+3211Medical radiation therapist 
+3252Medical records or health information technician
+3344Medical secretary or receptionist
+1111Member of parliament, legislator
+2635Mental health or abuse counsellor
+9621Messenger, package deliverer
+7211Metal castings moulder
+7211Metal core maker
+7223Metal driller or borer
+8122Metal finishing, plating or coating machine operator
+7222Metal foundry pattern-maker
+7211Metal ladler
+7222Metal marker
+7211Metal measuring and cutting machine operator
+7223Metal moulding machine setter-operator
+8121Metal processing plant operator
+3135Metal production process controller
+8122Metal products assembler
+7223Metal products packer
+7132Metal varnisher
+7224Metal wheel-grinder, polisher or tool sharpener
+2146Metallurgist
+3117Metallurgy technician
+7233Metalworking machinery fitter
+2112Meteorologist
+3111Meteorology or oceanography technician
+9623Meter reader utilities
+3100Military air operations crew member
+1100Military operations leader
+3100Military weapons specialist
+8160Milk processing machine operator
+5221Milkman
+7233Mine electrician
+8111Miner blaster
+8111Miner marl pit
+8111Miner, underground miner
+8112Mineral ore and stone processing plant operators
+2146Mining engineer
+2114Mining geologist
+9311Mining helper
+8111Mining machine operator
+7233Mining machinery mechanic
+1322Mining site manager
+3121Mining supervisor
+3117Mining technician
+4120Minutes secretary
+6130Mixed crop and animal farmer
+9213Mixed crop farm helper
+7111Mobile home installer
+7422Mobile phone equipment installer or repairer
+4211Money changer
+4213Money-lender
+7231Moped or scooter mechanic
+4312Mortgage clerk
+7122Mosaic cutter-setter
+3521Motion picture projectionist
+8321Motorcycle driver
+7231Motorcycle mechanic
+8341Motorised farm equipment operator
+8341Motorised forestry equipment operator
+7231Motor-vehicle engine fitter
+7411Moving staircase installer or repairer
+2166Multimedia designer
+2513Multimedia developer
+4110Municipal clerk
+5414Museum attendant
+2621Museum curator
+5113Museum guide
+1349Museum manager
+3433Museum technician
+2652Music arranger
+2354Music teacher
+7312Musical instrument maker
+7312Musical instrument tuner
+2652Musician
+5311Nanny
+6210Nature park warden
+9312Navvy
+7532Net maker
+4311New accounts clerk
+2642News analyst
+9520Newspapers vendor
+2411NLD Accountant - higher vocational qualified
+2411NLD Accountant - university qualified
+3342NLD Ambtelijk secretaris medezeggenschap > 2010Q2
+3123NLD Construction contractor roads, water works
+2166NLD Graphic designer (semi-skilled)
+2166NLD Graphic designer (skilled)
+3511NLD IT systems administrator (middle vocational level)
+4412NLD Postman, postdeliverer
+3423NLD Recreation program worker for prisoners
+2100Non-commissioned officer armed forces
+2619Notary
+3211Nuclear medicine technologist 
+3111Nuclear monitoring technician
+2221Nurse, all other
+5321Nursing aide (clinic or hospital)
+3221Nursing associate professional
+2265Nutrition information officer
+3257Occupational health or safety inspector
+2263Occupational health or safety officer
+2264Occupational therapist
+4110Office clerk
+7115Office furniture joiner
+7233Office machinery fitter
+3343Office manager
+7322Offset printer
+2114Oil or gas geologist
+7233Oiler, greaser
+2120Operations research analyst
+8113Operator service unit oil or gas well
+3212Ophthalmic laboratory technician
+2267Ophthalmic optician
+7315Optical glass worker
+2212Optical specialist
+2267Optometrist
+4321Order clerk
+4322Order scheduling clerk
+2421Organisation analyst
+7536Orthopaedic shoe-maker
+2211Osteopath
+5169Other personal services worker
+5311Out of school hours care worker
+3423Outdoor adventure guide
+2163Package designer
+8183Packing or labelling machine operator
+9313Painter or plasterer helper
+8143Paper worker
+8171Paperboard products assembler
+7131Paperhanger
+8143Paper-products machine operator
+2240Paramedical practitioner, all other
+9629Parking enforcement worker
+2635Parole officer
+3351Passport checking officer
+3354Passport issuing officer
+8160Pasta production machine operator
+2141Patent agent
+2212Pathologist
+3212Pathology laboratory technician
+8342Paving machinery or bituminous operator
+4213Pawnbroker
+4313Payroll clerk
+5142Pedicurist
+7535Pelt dresser, tanner, fellmonger
+1431Periodical or newspaper manager
+3343Personal assistant
+3312Personal financial advisor
+4416Personnel clerk
+1212Personnel department manager
+2423Personnel officer
+5164Pet animal breeder
+5245Petrol pump attendant
+2113Petroleum chemist
+3134Petroleum or natural gas refining plant operator
+2113Pharmaceutical chemist
+3133Pharmaceutical process controller
+8131Pharmaceutical products machine operator
+3213Pharmaceutical technician
+2262Pharmacist in hospital or factory
+2131Pharmacologist
+3213Pharmacology laboratory technician
+5321Pharmacy aide
+3213Pharmacy assistant (skilled)
+2310PhD student agriculture, nature, animals, environment sciences
+2310PhD student computer sciences and mathematics
+2310PhD student economics, business and management sciences
+2310PhD student engineering, transport and logistic sciences
+2310PhD student health sciences
+2310PhD student humanities
+2310PhD student journalism, media and communication
+2310PhD student law and public administration
+2310PhD student leisure, hospitality and gastronomy
+2310PhD student natural and life sciences
+2310PhD student psychology, pedagogic subjects
+2310PhD student social work
+2310PhD student, all other subjects
+2633Philosopher
+7323Photo laboratory technician
+3431Photographer, all other
+3431Photographer-artist
+7311Photographic equipment maker
+3116Photographic process worker
+8132Photographic products machine operator
+3119Physical or engineering science technician, all other
+2114Physical scientists, all other
+3256Physician assistant
+2111Physicist
+2264Physiotherapist 
+3255Physiotherapy assistant
+2659Picture or antiques restorer
+7512Pie maker
+6129Pig breeder
+8342Pile-driver operator
+7126Pipe fitter
+7126Pipe layer
+7512Pizza baker
+2141Planning engineer
+7412Plant maintenance electrician 
+7233Plant maintenance mechanic
+7123Plasterer
+7123Plasterer, stucco
+8142Plastic lay-out worker
+8142Plastic products assembler
+2212Plastic surgeon
+8142Plastics and composites machine operator
+7126Plumber
+9313Plumber or pipefitter helper
+3355Police detective
+3355Police inspector
+5412Police officer
+2422Policy advisor
+2422Policy or administration professional, all other
+1213Policy or planning manager
+1114Political party official
+2633Political scientist
+1324Port manager
+9333Port operative
+9333Port passenger operative
+3431Portrait, wedding or other events photographer
+4211Post office counter clerk
+4412Post sorting or distributing clerk
+4412Postman
+2310Post-secondary education teacher agriculture, nature, animals, environment sciences
+2310Post-secondary education teacher computer sciences and mathematics
+2310Post-secondary education teacher economics, business and management sciences
+2310Post-secondary education teacher engineering, transport and logistic sciences
+2310Post-secondary education teacher health sciences
+2310Post-secondary education teacher humanities
+2310Post-secondary education teacher journalism, media and communication
+2310Post-secondary education teacher law and public administration
+2310Post-secondary education teacher leisure, hospitality and gastronomy
+2310Post-secondary education teacher natural and life sciences
+2310Post-secondary education teacher psychology, pedagogic subjects
+2310Post-secondary education teacher social work
+2310Post-secondary education teacher, other subjects
+7314Potter
+6122Poultry farmer
+3113Power systems engineer
+7311Precision instrument maker
+7111Prefabricated buildings erector
+7321Pre-press technician
+2642Press officer
+3431Press photographer
+2636Priest, minister, imam
+1345Primary school head
+2341Primary school teacher
+7316Printing engraver or etcher
+7322Printing machine operator
+7233Printing machinery mechanic
+5413Prison guard
+1344Prison manager
+3355Private detective
+3221Private nurse
+2635Probation officer
+3139Process controller, all other
+4110Procurement clerk
+7543Product grader or tester (not in foods and beverages)
+5249Product promotor
+2141Production engineer
+8189Production machine operator, all other
+1120Production or operations manager
+4322Production planning clerk
+2149Professional engineer, all other
+2222Professional midwife
+3421Professional sporter
+3123Project manager civil engineering
+4120Project secretary
+2643Proof reader
+3334Property agent
+2611Prosecutor
+5321Psychiatric aide
+1342Psychiatric care services manager
+2221Psychiatric nurse
+2212Psychiatrist
+2634Psychologist
+2264Psychomotor therapist
+1112Public administration manager
+9629Public park attendant
+4110Public relations clerk
+1222Public relations department manager
+2432Public relations officer
+1324Public transport company manager
+2642Publisher
+3139Pulp or paper manufacturing process controller
+8171Pulp or papermaking plant operator
+8342Pumping machine operator
+1219Purchasing department manager
+7543Quality inspector agricultural products
+7543Quality inspector cattle, meat, fish
+2113Quality inspector chemical products
+7543Quality inspector clothing, leatherwear
+7543Quality inspector computer equipment
+7543Quality inspector electrical equipment or eletronic components
+7543Quality inspector food (no meat or fish)
+7543Quality inspector glass, glass products
+7543Quality inspector grains, seeds
+7543Quality inspector machines, appliances, vehicles
+7543Quality inspector metal goods, metalware
+7543Quality inspector noise pollution (licences, inspection)
+2113Quality inspector pharmaceutical products
+7543Quality inspector rubber, plastic products
+3257Quality inspector, all other products
+2141Quantity surveyor
+9311Quarry helper
+1223R&D department manager
+1223R&D manager
+3522Radar and sonar technician
+3521Radio equipment operator
+2212Radiologist
+8312Rail-track laying or maintenance equipment operator
+8312Railway brake, signal or switch operator
+9333Railway vehicles loader
+3334Real estate developer
+4226Receptionist
+4226Receptionist, telephonist
+3521Recording equipment operator
+1431Recreation centre manager
+3423Recreation program worker for children
+3423Recreation program worker for elderly
+3423Recreation program worker for handicapped
+3423Recreation program worker for leisure, vacation
+3423Recreation program worker for sports
+2269Recreational therapist
+9611Recyclable material collector
+1324Recycling or refuse disposal manager
+3115Reefer technician
+9611Refuse collector
+3132Refuse incinerator process controller
+9612Refuse sorter
+2635Rehabilitation counsellor
+1431Religious activities centre manager
+2636Religious professional, all other
+3413Religious worker
+2264Remedial gymnast 
+2352Remedial teacher
+9129Removal worker, all other hazardous materials
+8332Remover
+9333Remover helper
+4226Rental clerk houses, apartments
+4226Rental clerk road or water vehicles
+4226Rental clerk, all other products
+2642Reporter
+2310Researcher agriculture, nature, animals, environment sciences
+2310Researcher computer sciences and mathematics
+2310Researcher economics, business and management sciences
+2310Researcher engineering, transport and logistic sciences
+2310Researcher health sciences
+2310Researcher humanities
+2310Researcher journalism, media and communication
+2310Researcher law and public administration
+2310Researcher leisure, hospitality and gastronomy
+2310Researcher natural and life sciences
+2310Researcher psychology, pedagogic subjects
+2310Researcher social work, other social sciences
+2310Researcher, all other subjects
+5169Residential warden
+2264Respiratory therapist 
+5120Restaurant cook
+1412Restaurant manager
+1420Retail chain manager
+2262Retail pharmacist
+9331Rickshaw driver
+7215Rigger
+9312Road construction helper
+7112Road paviour
+5412Road traffic police officer
+4323Road transport clerk
+9333Road vehicles loader
+1324Road, rail, water or air transport company manager
+7113Rock splitter
+7121Roofer
+9313Roofer helper
+7121Roofer, asphalt
+7215Rope spinner, squeezer or splicer
+8343Ropeway or aerial operator
+8113Roustabout oil or gas
+8141Rubber processing machine operator
+8141Rubber products assembler
+8141Rubber products machine operator
+7532Saddle maker, horse collar maker
+7532Sail maker
+3313Salary or personnel administrator
+5223Sales assistant agricultural retail, pets and flowers
+5223Sales assistant automotive parts or fuel
+5223Sales assistant clothing, leatherwear
+5223Sales assistant construction equipments or components
+5223Sales assistant consumer electronics, household equipment
+5223Sales assistant drugstore
+5223Sales assistant food, beverages, tobacco products
+5223Sales assistant jewellery, luxury goods
+5223Sales assistant newspapers, books, music, videos, games
+5223Sales assistant sporting equipments, leisure products
+5223Sales assistant supermarket, department store
+5223Sales assistant, all other
+4110Sales clerk
+5242Sales demonstrator
+1221Sales department manager
+2433Sales engineer
+3322Sales representative
+3322Sales representative agricultural products
+3322Sales representative chemical products
+3322Sales representative civil engineering
+3322Sales representative clothing, leatherwear
+3322Sales representative computer equipment or components
+3322Sales representative construction buildings
+3322Sales representative construction equipments or components 
+3322Sales representative construction installation activities 
+3322Sales representative educational materials
+3322Sales representative electrical equipment or components
+3322Sales representative financial products
+3322Sales representative food, beverages, tobacco products
+3322Sales representative glass, glass products
+3322Sales representative machines, appliances, vehicles 
+3322Sales representative metal goods, metalware
+2433Sales representative pharmaceutical and medical products
+3322Sales representative rubber, plastic products
+3322Sales representative technical products
+3322Sales representative, all other products
+7541Salvage diver
+3413Salvation soldier
+3257Sanitary inspector
+7511Sausage maker
+7523Sawing machine setter or operator
+7119Scaffolder
+7311Scale balancer
+2351School inspector
+3221School nurse
+2635School or youth counsellor
+5311Schoolchildren attendant
+7322Screen printer
+3435Script assistant
+3152Sea ship captain
+6221Seafood farm worker
+6221Seafood farmer
+8350Seaman
+3100Seaman, military operations crew member
+2353Second language teacher
+2330Secondary education teacher agricultural and veterinary subjects
+2330Secondary education teacher computer sciences and mathematics
+2330Secondary education teacher economics, business and management subjects
+2330Secondary education teacher engineering, manufacturing and construction
+2330Secondary education teacher general programs, no specific field
+2330Secondary education teacher health and welfare subjects
+2330Secondary education teacher humanities, languages and arts
+2330Secondary education teacher law and public administration
+2330Secondary education teacher natural and life sciences
+2330Secondary education teacher pedagogy and teacher training
+2330Secondary education teacher social work, social science
+2330Secondary education teacher, other subjects
+1345Secondary school manager
+4120Secretary
+4120Secretary clerk
+4120Secretary, all other
+5414Security guard
+7411Security or fire alarm systems installer or service technician
+3114Semiconductor processing machine operator
+1112Senior government official
+1112Senior non-legislative official
+7533Sewer
+9129Sewer pipe cleaner
+8153Sewing machine operator
+5153Sexton
+7213Sheet metal worker
+7213Sheet metal worker in shipbuilding
+9334Shelf stacker
+3311Ship broker
+7213Ship builder
+5120Ship cook
+8350Ship deck hand
+8350Ship deck hand (tug)
+3152Ship deck officer
+3151Ship engineering technician
+9333Ship loader
+7233Ship mechanic
+7131Ship painter
+3152Ship pilot
+2164Ship planner
+8156Shoe production machine operator
+7536Shoe repairer, leather repairer
+9510Shoe-polisher
+5221Shop keeper agricultural retail, pets and flowers
+5221Shop keeper automotive parts or fuel
+5221Shop keeper clothing, textile, leatherwear
+5221Shop keeper construction equipments or components
+5221Shop keeper consumer electronics, household equipment
+5221Shop keeper drugstore
+5221Shop keeper food, beverages, tobacco products
+5221Shop keeper jewellery, luxury goods
+5221Shop keeper newspapers, books, music, videos, games
+5221Shop keeper sporting equipments, leisure products
+5221Shop keeper, all other
+5221Shop keeper/supervisor supermarket
+5414Shop or shopping centre attendant
+1420Shopping centre manager
+8332Shuttle-car, mine or quarry operator
+7316Sign-writer
+2652Singer
+3422Ski instructor
+2212Skin specialist
+5142Slimming consultant
+2632Social scientist, all other
+1344Social welfare centre manager
+2635Social work or counselling professional, all other
+2632Sociologist, anthropologist or related professional
+8160Soft-drinks production machine operator
+2519Software or multimedia developer or analyst, all other
+7212Solder operator
+3100Soldier, military operations crew member
+3211Sonographer
+3521Sound mixer
+3100Special forces crew member
+2352Special needs teacher primary school
+2352Special needs teacher secondary school
+2352Special needs teaching professional, all other
+1114Special-interest organisation senior official
+2266Speech therapist
+3333Sporters agent
+1431Sports centre manager
+3422Sports coach, trainer
+3422Sports official
+3422Sports referee
+2359Sports teacher
+6129Stable groom
+6129Stable master
+4416Staff scheduling clerk
+3432Stage designer, stand designer
+7412Stage or studio electrician
+7531Stage or studio wardrobe assistant
+9333Stagehand
+5211Stall sales person, kiosk sales person
+8189Stationary plant and machine operator, all other
+5112Stationmaster
+4312Statistical clerk
+3314Statistical data manager
+3314Statistical technician
+2120Statistician
+8182Steam engine operator
+5111Steward on a ship
+3311Stock broker
+4321Stock clerk, warehouse clerk
+7113Stone cutter
+7113Stone driller
+7113Stone finisher
+7113Stone mason
+8181Stone or tiles production machine operator
+7113Stonecutting sandblaster
+8350Straddle-carrier driver
+5212Street vendor (food products)
+9520Street vendor, non-food products
+7214Structural metal or plate work fitter
+3521Studio equipment operator
+6310Subsistence crop farmer
+6340Subsistence hunter, trapper, fisher, gatherer
+6320Subsistence livestock farmer
+6330Subsistence mixed crop or livestock farmer
+3139Sugar production process controller
+7115Sunblind joiner
+2212Surgeon
+3211Surgery assistant
+7311Surgical appliance maker
+2221Surgical nurse
+4227Survey or market research interviewer
+9613Sweeper, street cleaner
+3422Swimming instructor
+7531Tailor
+4312Tax clerk
+3352Tax consultant
+3352Tax inspector
+8322Taxi driver
+8160Tea processing machine operator
+5312Teacher’s assistant
+4120Team or department secretary
+1120Technical department manager
+3118Technical illustrator
+2433Technical or medical sales professional (not in IT)
+7422Telecommunication equipment installer or repairer
+7422Telecommunication lines or cables installer or repairer
+2153Telecommunications engineer
+3522Telecommunications engineering technician
+4223Telephone switchboard operator
+4223Telephonist
+7532Tent maker
+7114Terrazzo worker
+1345Tertiary education institution manager
+2113Textile chemist
+2163Textile designer
+7532Textile ironing worker
+7532Textile pattern-maker or cutter
+7322Textile printer
+8159Textile products assembler
+7233Textiles machinery mechanic
+5211Theatre programme vendor
+2269Therapist or health professional, all other
+2144Thermo engineer
+9629Ticket collector
+5112Ticket inspector in train, tram, metro, bus
+5230Ticket reservation or booking clerk
+5230Ticket-clerk and cashier
+7122Tile setter, tile layer
+7516Tobacco blender
+7516Tobacco preparer
+8160Tobacco production machine operator
+8131Toiletries production machine operator
+7222Tool maker
+4212Totalisator bookmaker
+2164Town planner
+5414Town watchman
+2262Toxicologist
+3324Trade broker
+1114Trade union senior official
+3324Trader of gas, electricity or fuels
+3230Traditional or complementary medicine associate professional
+5112Traffic attendant in train, tram, metro, bus
+5112Traffic attendant train or bus station
+3139Traffic controller (train)
+3139Traffic controller (tram, metro, bus transportation)
+5169Traffic warden
+8311Train driver
+5111Train steward
+4321Train transport clerk
+7412Train, railways electrician
+2424Training or staff development professional officer
+2359Training or teaching professional, all other
+8331Tram or metro driver
+7412Tram, metro, bus electrician
+5412Transit, port or railroad police officer
+2643Translator
+3521Transmitting equipment operator
+4323Transport scheduling clerk
+4221Travel agency clerk
+1420Travel agency manager
+4221Travel consultant
+5113Travel guide
+3332Travel organiser
+6210Tree feller
+1311Tree or shrub crop farm manager
+6112Tree or shrub crop farmer
+9211Tree or shrub crop helper
+6112Tree or shrub crop worker
+6210Tree planter
+8332Truck driver
+8332Truck driver long distances
+7231Truck mechanic
+8342Tunnelling machinery or construction operator
+7233Turbine fitter
+4131Typist or word processing operator
+8141Tyre builder
+7541Underwater search and rescue diver
+2310University lecturer agriculture, nature, animals, environment sciences
+2310University lecturer computer sciences and mathematics
+2310University lecturer economics, business and management sciences
+2310University lecturer engineering, transport and logistic sciences
+2310University lecturer health sciences
+2310University lecturer humanities
+2310University lecturer journalism, media and communication
+2310University lecturer law and public administration
+2310University lecturer leisure, hospitality and gastronomy
+2310University lecturer natural and life sciences
+2310University lecturer psychology, pedagogic subjects
+2310University lecturer social work
+2310University lecturer, other subjects
+2310University professor agriculture, nature, animals, environment sciences
+2310University professor computer sciences and mathematics
+2310University professor economics, business and management sciences
+2310University professor engineering, transport and logistic sciences
+2310University professor health sciences
+2310University professor humanities
+2310University professor journalism, media and communication
+2310University professor law and public administration
+2310University professor leisure, hospitality and gastronomy
+2310University professor natural and life sciences
+2310University professor psychology, pedagogic subjects
+2310University professor social work
+2310University professor, other subjects
+2212Urologist
+5162Valet
+8322Van driver
+7132Varnisher manufactured articles
+9211Vegetable picker
+8160Vegetable processing machine operator
+7231Vehicle engine tuner
+7231Vehicle patrolman/woman
+7132Vehicle spray painter
+7534Vehicle upholsterer
+9623Vending machine money collector
+9623Vending machine service operator
+7544Vermin control worker
+3240Veterinarian inspector
+2250Veterinarian, all other
+5164Veterinary aid
+2250Veterinary surgeon
+3240Veterinary technician
+3240Veterinary vaccinator
+8160Vinegar making machine operator
+3432Visual merchandiser
+1345Vocational education institution manager
+2320Vocational education teacher agricultural and veterinary subjects
+2320Vocational education teacher computer sciences and mathematics
+2320Vocational education teacher economics, business and management subjects
+2320Vocational education teacher engineering, manufacturing and construction
+2320Vocational education teacher general programs, no specific field
+2320Vocational education teacher health and welfare subjects
+2320Vocational education teacher humanities, languages and arts
+2320Vocational education teacher law and public administration
+2320Vocational education teacher natural and life sciences
+2320Vocational education teacher pedagogy and teacher training
+2320Vocational education teacher social work, social science
+2320Vocational education teacher, other subjects
+5131Waiter or waitress
+9333Warehouse worker
+3132Waste water plant operator
+7311Watch maker
+7311Watch repairer
+9312Water dam or dike construction helper
+9312Water dam or dike construction worker
+9312Water dam or dike tender
+9624Water or firewood collector
+2142Water protection or land reclaim engineer
+8113Water well driller
+8152Weaving machine operator
+2166Web designer
+2642Web journalist
+2513Web master, web manager
+2513Web programmer
+3514Web technician
+4321Weighing clerk
+7212Welder, all other
+7212Welder, metal materials
+7212Welder, synthetic materials
+7126Well driller offshore
+8113Well service unit operator not in gas and oil
+7126Well sinker
+7234Wheelchair repairer
+1420Wholesale manager
+6210Wicker worker, reed cutter
+5141Wigmaker
+6210Wild life warden
+8343Winch operator
+7412Wind turbine installer or repairer
+3432Window dresser
+9123Window washer
+6112Winegrower
+8160Winemaking plant operator
+7215Wire spinner-squeezer
+7522Wood carver
+8219Wood model maker
+8172Wood or related products assembler
+8172Wood processing plant operator
+7523Wood products machine operator
+7115Wood shipwright
+7521Wood treater
+7522Wooden toy maker
+7523Woodworking machinery mechanic
+7523Woodworking-machine setter-operator
+2641Writer of technical texts
+3211X-ray assistant
+7512Yeast maker
+2359Yoga or other self-enrichment teacher

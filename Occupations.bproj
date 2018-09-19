@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Name="Occupations" Guid="a691b36e-b012-4699-be07-6ba86e8f6f1a" ProjectType="DatamodelProject">
+  <MainFile RelativePath="true">Occupations.blax</MainFile>
+  <FileItems>
+    <File FileType="DatamodelFileType" RelativePath="true">Occupations.blax</File>
+  </FileItems>
+  <Properties>
+    <IncludeSearchPath />
+    <LibrarySearchPath />
+    <DatamodelSearchPath />
+    <ResourceDB />
+    <SupportedModes />
+    <UsedResourceSets />
+    <ConditionalDefines />
+    <ExternalSearchPath />
+    <SurveyRoot />
+    <CatiRole />
+    <IsRunnableSurvey>True</IsRunnableSurvey>
+    <WebDataEntryClient>MvcDebug</WebDataEntryClient>
+    <UseCari>False</UseCari>
+    <IgnoreLayoutErrors>False</IgnoreLayoutErrors>
+  </Properties>
+</Project>
