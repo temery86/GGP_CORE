@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Name="Countries_setup" Guid="a7132b3d-d5d3-4768-9dd3-7afd1377c204" ProjectType="ManipulaProject">
+  <MainFile />
+  <FileItems>
+    <File FileType="ManipulaFileType" RelativePath="true">Countries_setup.manx</File>
+    <File FileType="TextFileType" RelativePath="true">InputFileCountries.txt</File>
+  </FileItems>
+  <Properties>
+    <IncludeSearchPath />
+    <LibrarySearchPath />
+    <DatamodelSearchPath />
+    <ConditionalDefines />
+    <ResourceDB />
+    <SurveyRoot />
+    <IsManiplus>False</IsManiplus>
+    <WebDataEntryClient>None</WebDataEntryClient>
+  </Properties>
+</Project>

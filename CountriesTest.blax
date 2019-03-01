@@ -1,0 +1,20 @@
+﻿DATAMODEL Countries
+
+USES Countries
+
+EXTERNALS
+
+CntFile: Countries
+
+FIELDS
+   isocode: string[4]
+   country: string
+
+RULES
+country | CntFile.lookup.description
+IF CntFile.search(country) THEN
+   isocode := CntFile.isocode
+   isocode.SHOW
+ENDIF
+
+ENDMODEL

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Name="Occupations_setup" Guid="be4ebf0c-b52b-43c3-8ae3-80b7cd577267" ProjectType="ManipulaProject">
+  <MainFile />
+  <FileItems>
+    <File FileType="ManipulaFileType" RelativePath="true">Occupations_setup.manx</File>
+    <File FileType="TextFileType" RelativePath="true">InputFileOccupations.txt</File>
+  </FileItems>
+  <Properties>
+    <IncludeSearchPath />
+    <LibrarySearchPath />
+    <DatamodelSearchPath />
+    <ConditionalDefines />
+    <ResourceDB />
+    <SurveyRoot />
+    <IsManiplus>False</IsManiplus>
+    <WebDataEntryClient>None</WebDataEntryClient>
+  </Properties>
+</Project>

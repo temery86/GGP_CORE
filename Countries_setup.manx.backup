@@ -1,0 +1,23 @@
+﻿{
+Setup:        Countries
+Date Created: $created$ 
+Author:       $user$
+}
+
+SETUP Occupations
+  SETTINGS
+    DESCRIPTION = "My Manipula Setup"
+
+  USES
+    MyMeta 'Countries.bmix'
+
+  INPUTFILE
+    MyInputFile: MyMeta ('C:\Users\TomE\Dropbox\GGPServer\GGP Core\GGP_CORE\InputFileCountries.txt', ASCII)
+
+  OUTPUTFILE
+    MyOutputFile: MyMeta ('Countries.bdbx', BLAISE)
+
+  MANIPULATE
+    MyOutputFile.WRITE
+
+END

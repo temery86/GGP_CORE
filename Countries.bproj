@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Name="Countries" Guid="173034f4-7339-415d-96c2-6c679218bfc2" ProjectType="DatamodelProject">
+  <MainFile RelativePath="true">Countries.blax</MainFile>
+  <FileItems>
+    <File FileType="DatamodelFileType" RelativePath="true">Countries.blax</File>
+    <File FileType="TextFileType" RelativePath="true">InputFileCountries.txt</File>
+  </FileItems>
+  <Properties>
+    <IncludeSearchPath />
+    <LibrarySearchPath />
+    <DatamodelSearchPath />
+    <ResourceDB />
+    <SupportedModes />
+    <UsedResourceSets />
+    <ConditionalDefines />
+    <ExternalSearchPath />
+    <SurveyRoot />
+    <CatiRole />
+    <IsRunnableSurvey>True</IsRunnableSurvey>
+    <WebDataEntryClient>MvcDebug</WebDataEntryClient>
+    <UseCari>False</UseCari>
+    <IgnoreLayoutErrors>False</IgnoreLayoutErrors>
+  </Properties>
+</Project>

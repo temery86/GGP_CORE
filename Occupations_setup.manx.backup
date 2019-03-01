@@ -1,0 +1,23 @@
+﻿{
+Setup:        Countries
+Date Created: $created$ 
+Author:       $user$
+}
+
+SETUP Occupations
+  SETTINGS
+    DESCRIPTION = "My Manipula Setup"
+
+  USES
+    MyMeta 'Occupations.bmix'
+
+  INPUTFILE
+    MyInputFile: MyMeta ('MyInputFileOccupations_EN.txt', ASCII)
+
+  OUTPUTFILE
+    MyOutputFile: MyMeta ('Occupations.bdbx', BLAISE)
+
+  MANIPULATE
+    MyOutputFile.WRITE
+
+END

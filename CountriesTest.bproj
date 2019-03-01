@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Name="CountriesTest" Guid="04ae9370-3557-42c1-aa91-5d0ce711c3da" ProjectType="DatamodelProject">
+  <MainFile RelativePath="true">CountriesTest.blax</MainFile>
+  <FileItems>
+    <File FileType="DatamodelFileType" RelativePath="true">CountriesTest.blax</File>
+    <File FileType="ResourceDatabaseFileType" RelativePath="true">CountriesTest.blrd</File>
+  </FileItems>
+  <Properties>
+    <IncludeSearchPath />
+    <LibrarySearchPath />
+    <DatamodelSearchPath />
+    <ResourceDB RelativePath="true">CountriesTest.blrd</ResourceDB>
+    <SupportedModes />
+    <UsedResourceSets />
+    <ConditionalDefines />
+    <ExternalSearchPath />
+    <SurveyRoot />
+    <CatiRole />
+    <IsRunnableSurvey>True</IsRunnableSurvey>
+    <WebDataEntryClient>MvcDebug</WebDataEntryClient>
+    <UseCari>False</UseCari>
+    <IgnoreLayoutErrors>False</IgnoreLayoutErrors>
+  </Properties>
+</Project>

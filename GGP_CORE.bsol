@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution Name="GGP_CORE">
+  <StartupProject RelativePath="true">GGP_CORE.bproj</StartupProject>
+  <ProjectItems>
+    <Project RelativePath="true" BuildSequence="4">GGP_CORE.bproj</Project>
+    <Project RelativePath="true" BuildSequence="2">Occupations.bproj</Project>
+    <Project RelativePath="true" BuildSequence="6">Occupations_setup.bproj</Project>
+  </ProjectItems>
+</Solution>

@@ -1,0 +1,10 @@
+﻿DATAMODEL Countries
+PRIMARY
+   description
+
+SECONDARY
+    CountriesTriKey = description(TRIGRAM)   
+FIELDS
+   isocode: string[4]
+   description: string
+ENDMODEL

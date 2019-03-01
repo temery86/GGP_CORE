@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution Name="Countries">
+  <StartupProject RelativePath="true">..\..\GGP Core\GGP_CORE\Countries.bproj</StartupProject>
+  <ProjectItems>
+    <Project RelativePath="true" BuildSequence="4">..\..\GGP Core\GGP_CORE\Countries.bproj</Project>
+    <Project RelativePath="true" BuildSequence="6">..\..\GGP Core\GGP_CORE\Countries_setup.bproj</Project>
+    <Project RelativePath="true" BuildSequence="2">CountriesTest.bproj</Project>
+  </ProjectItems>
+</Solution>

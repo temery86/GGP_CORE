@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project Name="Occupations" Guid="a691b36e-b012-4699-be07-6ba86e8f6f1a" ProjectType="DatamodelProject">
-  <MainFile RelativePath="true">Occupations.blax</MainFile>
+  <MainFile RelativePath="true">Countries.blax</MainFile>
   <FileItems>
-    <File FileType="DatamodelFileType" RelativePath="true">Occupations.blax</File>
+    <File FileType="DatamodelFileType" RelativePath="true">Countries.blax</File>
+    <File FileType="TextFileType" RelativePath="true">InputFileOccupations.txt</File>
   </FileItems>
   <Properties>
     <IncludeSearchPath />
