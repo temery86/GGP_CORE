@@ -23,7 +23,7 @@ ROLES = Watermark, Help, Template
    
 TYPE
 Trespid = STRING[9] "[[A-Z{2}]+[\d{7}]"
-Tdate = STRING[7] "[1-2][0-9]+/+[1-2][0-9]{3}"
+Tdate = STRING[7] "[0-1][0-9]+/+[1-2][0-9]{3}"
 Tyesno = (yes (1) "Yes", no (2) "No")
 Tnotsure = (yes (1) "Yes", no (2) "No", notsure (3) "Not Sure")
 Tyesnosome = (yesa (1) "Yes, always", yesm (2) "Yes, most of the time", yess (3) "Yes, some of the time", no (4) "No, never")
@@ -48,7 +48,7 @@ Tfreq3 = ( never (1) "Seldom or Never", sometimes (2) "Sometimes", often (3) "Of
 Tfreq4 = (never (1) "Never", seldom (2) "Seldom", often (3) "Often")
 Tmoreorless = ( yes (1) "Yes", moreorless (2) "More or Less", no (3) "No")
 Tsoctask = (mainlysoc (1) "Mainly a task for society", moresoc (2) "More a task for society than for the family", equal (3) "A task equally for both society and the family", morefam (4) "More a task for the family than for society", mainlyfam (5) "Mainly a task for the family")
-Tcertainty = (defnot (1) "Definetly Not", probnot (2) "Probably Not", probyes (3) "Probably Yes", defyes (4) "Definetly Yes")
+Tcertainty = (defnot (1) "Definetly Not", probnot (2) "Probably Not", probyes (3) "Probably Yes", defyes (4) "Definitely Yes")
 Thousing = (independently (1) "living independently", sheltheredhome (2) "in a dwelling that specifically meets the needs of the elderly (like a service flat, semi independent sheltered accommodation)", oldagehome (3) "in a home for the elderly", nursinghome (4) "in a nursing home", boarding (5) "in a room of a boarding house")
 Trelationship = (so (1) "Partner or spouse", child (2) "Biological child with the current partner or spouse", childex (3) "Biological child with a former partner or spouse", stepchild (4) "Stepchild", adoptchild (5) "Adopted child", foster (6) "Foster child", bioparent (7) "Biological parent", stepparent (8) "Stepparent, adoptive parent or foster parent", soparent (9) "Biological parent of current partner", sostepparent (10) "Stepparent, adoptive parent or foster parent of current partner", grandchild (11) "Grand or great grandchild (either R or partners)", grandparent (12) "Grand or greatgrandparent (either R or partners)", sibling (13) "Brother or sister", sosibling (14) "Partner's brother or sister", childso (15) "Partner of a child", other (16) "Other relative of R", soother (17) "Other relative of partner", nonrelative (18) "Non relative", acq (19) "Friend, acquaintance, neighbour, colleague", otherp (20) "Other person")
 Trelationship2 = (so (1) "Partner", son (2) "Son", daughter (3) "Daughter", stepson (4) "Step-Son", stepdaughter (5) "Step-Daughter", mother (6) "Mother", father (7) "Father", stepmother (8) "Step-Mother", stepfather (9) "Step-Father", somother (10) "Partner’s Mother or Step-Mother ", sofather (11) "Partner's Father or Step-Father", grandparent (12) "Grandparents (either R or partners)", grandchild (13) "Grandchild", sister (14) "Sister", brother (15) "Brother", daughterso (16) "Daughters’ Partner", sonso (17) "Sons’ Partner", otherrelative (18) "Other Relative", acq (19) "Friend, acquaintance, neighbour, colleague", otherp (20) "Other person")
@@ -108,7 +108,7 @@ DEM09 "How many rooms do you have? <newline><I>Exclude bathrooms, toilets and ro
 DEM10 "When did you start living in this dwelling?" / "Date moved in" 
    Watermark "MM/YYYY": Tdate, DONTKNOW, RF
    
-DEM11 " Does your household own or rent this accommodation or does it come rent free?" / "Housing Status":  (owner (1) "owner", tenant (2) "tenant or subtenant, paying rent",  free (3) "accomodation is provided rent free", other (4) "other"), RF
+DEM11 " Does your household own or rent this accommodation or does it come rent free?" / "Housing Status":  (owner (1) "owner", tenant (2) "tenant or subtenant, paying rent",  free (3) "accommodation is provided rent free", other (4) "other"), RF
 
 DEM12 "How satisfied are you with your dwelling? <newline><I>On a scale from 0 to 10 where 0 means ‘not at all satisfied’ and 10 means ‘completely satisfied’ and 5 means ‘about average’, what number best represents your satisfaction with your dwelling?<I>" / "Housing Satisfaction": 0..10, RF
 
@@ -120,7 +120,7 @@ DEM15 "On a typical day, about how many hours do you spend using the internet on
 
 DEM16 "What language do you most frequently speak at home?" / "Language at home" : Tlanguages, DK, RF
 
-DEM17 "Where did you live three years ago from today?" / "Living 3 years ago" : (sameadd (1) "The same address as now", samecity (2) "Different address, but same town/city/muncipality", diffcity (3) "Different city in the same country", diffcountry (4) "Different country") 
+DEM17 "Where did you live three years ago from today?" / "Living 3 years ago" : (sameadd (1) "The same address as now", samecity (2) "Different address, but same town/city/municipality", diffcity (3) "Different city in the same country", diffcountry (4) "Different country") 
 
 DEM18 "What was the main reason for moving to this address?" / "Reason for moving" : (housing (1) "Better housing", neighbourhood (2) "Better neighbourhood", family (3) "For family related reasons", financial (4) "For financial related reasons", work (5) "For work related reasons", education (6) "For education related reasons", health (7) "For health related reasons", other (8) "Other")
 
@@ -155,7 +155,7 @@ Help "Please select the education level that corresponds most closely to the hig
 : Tisced, DONTKNOW
 
 DEM26 "Which of the items best describes your partners current employment status?" / "Employment Status of Partner" 
-help "<I>In paid work refers to someone who either: <newline> a) worked for pay, profit or family gain for at least one hour in the last week or; <newline> b) were not at work during the last week but has a job or business from which they were temporarliy absent (i.e. on holiday or some form of leave)</I>"
+help "<I>In paid work refers to someone who either: <newline> a) worked for pay, profit or family gain for at least one hour in the last week or; <newline> b) were not at work during the last week but has a job or business from which they were temporariliy absent (i.e. on holiday or some form of leave)</I>"
 : Tempstat, DONTKNOW
 
 DEM27 "Is your partner limited in the ability to undertake normal everyday activities, because of a physical or mental health problem or a disability?" / "Everyday Activities Limitation of Partner" :  Tyesno
@@ -241,9 +241,9 @@ DEM46 "How many children has she/he had?" / "Number of children of Rs partner" :
 
 AUXFIELDS
 
-DEMINT "Let me begin by asking you a few questions about yourself." / "Accomodation Intro" : Tcontinue, EMPTY
+DEMINT "Let me begin by asking you a few questions about yourself." / "Accommodation Intro" : Tcontinue, EMPTY
 
-DEMACC "Now I would like to ask you some questions about your accommodation." / "Accomodation Intro" : Tcontinue, EMPTY
+DEMACC "Now I would like to ask you some questions about your accommodation." / "Accommodation Intro" : Tcontinue, EMPTY
 
 DEM38 "Within the last 12 months, how often did you and your partner have disagreement about..." /  "Couple Disagreements: Intro" : TContinue, EMPTY
 
@@ -509,7 +509,7 @@ LHI17_ "Our survey also deals with same sex partnerships. Was <B>^{LHI03_[I]}</B
 
 LHI18 "Have you had any children with someone you have never lived with?" / "Had children outside of cohabitation" : Tyesno, DONTKNOW, REFUSAL
 
-LHI19 "How many children have you had with someone you never lived with?" / "Number of Children outside of cohabitacion" : 0..10
+LHI19 "How many children have you had with someone you never lived with?" / "Number of Children outside of cohabitation" : 0..10
 
 LHI20 "Based on the information you have provided you had ^{numbiol} biological children, ^{numadopt} adopted children and ^{numstep} stepchildren. Is this correct?" / "Child count verification" : Tyesno
 
@@ -2013,7 +2013,7 @@ IF FER01a = yes OR FER01b = yes OR FER01c = yes THEN
 ENDIF
 IF ((asex = female AND age < 50) OR (asex = male AND partnerage < 50 AND BDEMOGRAPHICS.DEM23 = female)) AND NOT(FER01a = yes) AND NOT(FER01b = yes) AND hasyoungchild = yes THEN
    FER04b               
-   IF FER04b = yes THEN                 
+   IF NOT(FER04b = no) THEN                 
       FER04c               
    ENDIF       
 ENDIF
@@ -2044,7 +2044,7 @@ IF age < 50 THEN
    FER13  
    IF NOT(FER05 = defnot) THEN
       FER14 FER15
-      IF (FER15 = probyes) OR (FER15 = defyes) OR (FER15 = unsure) OR (FER15 = probno) THEN
+      IF NOT(FER15 = defno) THEN
          FER16a
       ENDIF
    ENDIF
@@ -2173,7 +2173,7 @@ HHD15c "the time you spend in paid work" / "Decision Making: time spent working"
 
 HHD15d "the time your partner spends in paid work" / "Decision Making: time partner spends working"  : Ttasks, DK, RF
 
-HHD16 "How do you and your partner organise your household income? Which of the items fits best?" / "How income is organized" : (respondent (1) "I manage all the money and give my partner his/her share", partner (2) "my partner manages all the money and gives me my share", pool (3) "we pool all the money and each takes out what we need", poolsome (4) "we pool some of the money and keep the rest separate", seperate (5) "we each keep our own money separate", other (6) "other"), DK, RF
+HHD16 "How do you and your partner organise your household income? Which of the items fits best?" / "How income is organized" : (respondent (1) "I manage all the money and give my partner his/her share", partner (2) "my partner manages all the money and gives me my share", pool (3) "we pool all the money and each takes out what we need", poolsome (4) "we pool some of the money and keep the rest separate", separate (5) "we each keep our own money separate", other (6) "other"), DK, RF
 
 HHD17 "How do you manage your monthly expenses that you have together (e.g. rent, food, etc.)?" / "How expenses are organized" : (ipay (1) "I pay everything alone", sopays (2) "my partner pays everything alone", equal (3) "we pay both to approximately equal shares", relative (4) "we pay both relative to our personal incomes", norule (5) "both of us are paying some of them, but there is no fixed rule"), DK, RF
 
@@ -2756,14 +2756,14 @@ GEN50ISCO "What was your mother occupation when you were 15?" / "Mothers Occupat
 
 GEN51 "What is the highest level of education that your mother has successfully completed?" / "Mothers highest education level (see code ISCED)" : Tisced, DK, RF
 
-GEN52 "Have you ever lived separately from your parents for at least three months?" /  "Ever lived seperately from parents" : Tyesno, DK, RF
+GEN52 "Have you ever lived separately from your parents for at least three months?" /  "Ever lived separately from parents" : Tyesno, DK, RF
 
-GEN52a "When did you for the first time start living separately from your parents for at least three months?" / "Date started living seperately from parents" 
+GEN52a "When did you for the first time start living separately from your parents for at least three months?" / "Date started living separately from parents" 
    Watermark "MM/YYYY" : Tdate, DK, RF
 
-GEN53 "Do you intend to start living separately from your parents within the next 3 years?" / "Intention to start livig seperately from parents" : Tintention, DK, RF
+GEN53 "Do you intend to start living separately from your parents within the next 3 years?" / "Intention to start livig separately from parents" : Tintention, DK, RF
 
-//Granparents
+//Grandparents
 
 GEN54 "How many of your grandparents are alive?" / "Number of Grandparents Alive" : 0..10, DK, RF
 
@@ -3705,7 +3705,7 @@ ATT03b "It is alright for two people to live together without getting married" /
 
 ATT03c "Marriage is a lifetime relationship and should never be ended" / "Values: Marriage for life" : Tagree, DONTKNOW, REFUSAL
 
-ATT03d "It is all right for a couple with an unhappy marriage to get a divorce even if they have children" / "Values: Divorce is permissable" : Tagree, DONTKNOW, REFUSAL
+ATT03d "It is all right for a couple with an unhappy marriage to get a divorce even if they have children" / "Values: Divorce is permissible" : Tagree, DONTKNOW, REFUSAL
 
 ATT03e "A woman has to have children in order to be fulfilled" / "Values: Women need children to be fulfilled" : Tagree, DONTKNOW, REFUSAL
 
@@ -3721,7 +3721,7 @@ ATT03j "A pre school child is likely to suffer if his/her mother works" / "Value
 
 ATT03k "A working mother can establish just as warm and secure a relationship with her children as a mother who does not work" / "Values: Working mother can secure warm and secure relationship with child" : Tagree, DONTKNOW, REFUSAL
 
-ATT05a "Grandparents should look after their grandchildren if the parents of these grandchildren are unable to do so" / "Intergenerational Values: Granparents should provide care" : Tagree, DONTKNOW, REFUSAL
+ATT05a "Grandparents should look after their grandchildren if the parents of these grandchildren are unable to do so" / "Intergenerational Values: Grandparents should provide care" : Tagree, DONTKNOW, REFUSAL
 
 ATT05b "Parents ought to provide financial help for their adult children when the children are having financial difficulties" / "Intergenerational Values: Parents provide financial help" : Tagree, DONTKNOW, REFUSAL
 
@@ -3749,7 +3749,7 @@ ATT09 "How often, if at all, do you attend religious services (apart from weddin
 
 ATT09u "times a..." / "Religious Service Attendance [TIME UNIT]" : Ttimeunit, DONTKNOW, REFUSAL
 
-ATT10 "Regardless of whether you belong to a particular religion, how religious would you say you are? Please express your religiosity on a scale of 0 to 10 where 0 means 'Not at all religious' and 10 means 'Very religious'." / "Religiousity" : 0..10, DONTKNOW, REFUSAL
+ATT10 "Regardless of whether you belong to a particular religion, how religious would you say you are? Please express your religiosity on a scale of 0 to 10 where 0 means 'Not at all religious' and 10 means 'Very religious'." / "Religiosity" : 0..10, DONTKNOW, REFUSAL
 
 AUXFIELDS
 
