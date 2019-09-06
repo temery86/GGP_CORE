@@ -9,10 +9,10 @@ SETUP Occupations
     DESCRIPTION = "My Manipula Setup"
 
   USES
-    MyMeta 'Occupations.bmix'
+    MyMeta 'Countries.bmix'
 
   INPUTFILE
-    MyInputFile: MyMeta ('C:\Users\TomE\Dropbox\GGPServer\GGP Core\GGP_CORE\InputFileCountries.txt', ASCII)
+    MyInputFile: MyMeta ('C:\Users\TomE\Dropbox (NIDI)\GGP\GGPServer\GGP Core\GGP_CORE\InputFileCountries.txt', ASCII)
 
   OUTPUTFILE
     MyOutputFile: MyMeta ('Countries.bdbx', BLAISE)

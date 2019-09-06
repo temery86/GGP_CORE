@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution Name="Countries_setup Solution">
+  <StartupProject RelativePath="true">Countries_setup.bproj</StartupProject>
+  <ProjectItems>
+    <Project RelativePath="true" BuildSequence="2">Countries_setup.bproj</Project>
+  </ProjectItems>
+</Solution>

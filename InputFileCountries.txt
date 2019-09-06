@@ -1,250 +1,250 @@
-﻿0004Afghanistan
-0248Aland Islands
+﻿0004Afganistan
 0008Albania
+0010Antarctica
 0012Algeria
-0016American Samoa
+0016Samoa Americană
 0020Andorra
 0024Angola
-0660Anguilla
-0010Antarctica
-0028Antigua and Barbuda
+0028Antigua si Barbuda
+0031Azerbaidjan
 0032Argentina
-0051Armenia
-0533Aruba
 0036Australia
 0040Austria
-0031Azerbaijan
 0044Bahamas
 0048Bahrain
 0050Bangladesh
+0051Armenia
 0052Barbados
-0112Belarus
-0056Belgium
-0084Belize
-0204Benin
+0056Belgia
 0060Bermuda
 0064Bhutan
 0068Bolivia
-0535Bonaire, Sint Eustatius and Saba
-0070Bosnia and Herzegovina
+0070Bosnia si Hertegovina
 0072Botswana
-0074Bouvet Island
-0076Brazil
-0092British Virgin Islands
-0086British Indian Ocean Territory
+0074Insula Bouvet
+0076Brazilia
+0084Belize
+0086Teritoriul Britanic al Oceanului Indian
+0090Insulele Solomon
+0092Insulele Virgine Britanice
 0096Brunei Darussalam
 0100Bulgaria
-0854Burkina Faso
+0104Myanmar
 0108Burundi
-0116Cambodia
-0120Cameroon
+0112Bielorusia
+0116Cambogia
+0120Camerun
 0124Canada
-0132Cape Verde
-0136Cayman Islands
-0140Central African Republic
-0148Chad
+0132capul Verde
+0136Insulele Cayman
+0140Republica Centrafricană
+0144Sri Lanka
+0148Ciad
 0152Chile
 0156China
-0344Hong Kong, Special Administrative Region of China
-0446Macao, Special Administrative Region of China
-0162Christmas Island
-0166Cocos (Keeling) Islands
-0170Colombia
-0174Comoros
+0158Taiwan
+0162Insula Craciunului
+0166Insulele Cocos (Keeling)
+0170Columbia
+0174Comore
+0175Mayotte
 0178Congo (Brazzaville)
-0180Congo, Democratic Republic of the
-0184Cook Islands
+0180Congo, Republica Democrată
+0184Insulele Cook
 0188Costa Rica
-0384Côte d'Ivoire
-0191Croatia
+0191Croaţia
 0192Cuba
-0531Curaçao
-0196Cyprus
-0203Czech Republic
-0208Denmark
-0262Djibouti
+0196Cipru
+0203Republica Cehă
+0204Benin
+0208Danemarca
 0212Dominica
-0214Dominican Republic
+0214Republica Dominicana
 0218Ecuador
-0818Egypt
 0222El Salvador
-0226Equatorial Guinea
-0232Eritrea
+0226Guineea Ecuatorială
+0231Etiopia
+0232Eritreea
 0233Estonia
-0231Ethiopia
-0238Falkland Islands (Malvinas)
-0234Faroe Islands
+0234Insulele Feroe
+0238Insulele Falkland (Malvinas)
+0239Georgia de Sud și Insulele Sandwich de Sud
 0242Fiji
-0246Finland
-0250France
-0254French Guiana
-0258French Polynesia
-0260French Southern Territories
+0246Finlanda
+0248Insulele Aland
+0250Franţa
+0254Guiana Franceză
+0258Polinezia Franceză
+0260teritoriile din sudul Frantei
+0262Djibouti
 0266Gabon
-0270Gambia
 0268Georgia
-0276Germany
+0270Gambia
+0275Teritoriul Palestinian, Ocupat
+0276Germania
 0288Ghana
 0292Gibraltar
-0300Greece
-0304Greenland
+0296Kiribati
+0300Grecia
+0304Groenlanda
 0308Grenada
-0312Guadeloupe
+0312Guadelupa
 0316Guam
 0320Guatemala
-0831Guernsey
-0324Guinea
-0624Guinea-Bissau
+0324Guineea
 0328Guyana
 0332Haiti
-0334Heard Island and Mcdonald Islands
-0336Holy See (Vatican City State)
+0334Heard Island și Insulele Mcdonald
+0336Sfântul Scaun (Statul Cetății Vaticanului)
 0340Honduras
-0348Hungary
-0352Iceland
+0344Hong Kong, regiune administrativă specială din China
+0348Ungaria
+0352Islanda
 0356India
-0360Indonesia
-0364Iran, Islamic Republic of
-0368Iraq
-0372Ireland
-0833Isle of Man
+0360Indonezia
+0364Iran (Republica Islamica a
+0368Irak
+0372Irlanda
 0376Israel
-0380Italy
+0380Italia
+0384Côte d'Ivoire
 0388Jamaica
-0392Japan
-0832Jersey
-0400Jordan
-0398Kazakhstan
-0404Kenya
-0296Kiribati
-0408Korea, Democratic People's Republic of
-0410Korea, Republic of
-0414Kuwait
-0417Kyrgyzstan
+0392Japonia
+0398Kazahstan
+0400Iordania
+0404Kenia
+0408Coreea, Republica Populară Democrată
+0410Republica Coreea
+0414Kuweit
+0417Kârgâzstan
 0418Lao PDR
-0428Latvia
-0422Lebanon
+0422Liban
 0426Lesotho
+0428Letonia
 0430Liberia
-0434Libya
+0434Libia
 0438Liechtenstein
-0440Lithuania
-0442Luxembourg
-0807Macedonia, Republic of
+0440Lituania
+0442Luxemburg
+0446Macao, regiune administrativă specială din China
 0450Madagascar
 0454Malawi
-0458Malaysia
-0462Maldives
+0458Malaezia
+0462Maldive
 0466Mali
 0470Malta
-0584Marshall Islands
-0474Martinique
+0474Martinica
 0478Mauritania
 0480Mauritius
-0175Mayotte
-0484Mexico
-0583Micronesia, Federated States of
-0498Moldova
+0484Mexic
 0492Monaco
 0496Mongolia
-0499Montenegro
+0498Moldova
+0499Muntenegru
 0500Montserrat
-0504Morocco
-0508Mozambique
-0104Myanmar
+0504Maroc
+0508Mozambic
+0512Oman
 0516Namibia
 0520Nauru
 0524Nepal
-0528Netherlands
-0530Netherlands Antilles
-0540New Caledonia
-0554New Zealand
+0528Olanda
+0530Antilele Olandeze
+0531Curaçao
+0533Aruba
+0534Sint Maarten (partea olandeză)
+0535Bonaire, Sint Eustatius și Saba
+0540Noua Caledonie
+0548Vanuatu
+0554Noua Zeelanda
 0558Nicaragua
 0562Niger
 0566Nigeria
 0570Niue
-0574Norfolk Island
-0580Northern Mariana Islands
-0578Norway
-0512Oman
-0586Pakistan
+0574Insula Norfolk
+0578Norvegia
+0580Insulele Mariane de Nord
+0581Statele Unite Minor Insulele îndepărtate
+0583Micronezia, Statele Federate ale
+0584Insulele Marshall
 0585Palau
-0275Palestinian Territory, Occupied
+0586Pakistan
 0591Panama
-0598Papua New Guinea
+0598Papua Noua Guinee
 0600Paraguay
 0604Peru
-0608Philippines
+0608Filipine
 0612Pitcairn
-0616Poland
-0620Portugal
+0616Polonia
+0620Portugalia
+0624Guineea-Bissau
+0626Timorul de Est
 0630Puerto Rico
 0634Qatar
-0638Réunion
-0642Romania
-0643Russian Federation
+0638Reuniune
+0642România
+0643Federația Rusă
 0646Rwanda
 0652Saint-Barthélemy
-0654Saint Helena
-0659Saint Kitts and Nevis
-0662Saint Lucia
-0663Saint-Martin (French part)
-0666Saint Pierre and Miquelon
-0670Saint Vincent and Grenadines
-0882Samoa
+0654Sfânta Elena
+0659Sfântul Kitts și Nevis
+0660Anguilla
+0662Sfânta Lucia
+0663Saint-Martin (partea franceză)
+0666Saint Pierre și Miquelon
+0670Sfântul Vincent și Grenadine
 0674San Marino
-0678Sao Tome and Principe
-0682Saudi Arabia
+0678Sao Tome și Principe
+0682Arabia Saudită
 0686Senegal
 0688Serbia
 0690Seychelles
 0694Sierra Leone
-0702Singapore
-0534Sint Maarten (Dutch part)
-0703Slovakia
+0702Singapur
+0703Slovacia
+0704Vietnam
 0705Slovenia
-0090Solomon Islands
 0706Somalia
-0710South Africa
-0239South Georgia and the South Sandwich Islands
-0728South Sudan
-0724Spain
-0144Sri Lanka
+0710Africa de Sud
+0716Zimbabwe
+0724Spania
+0728Sudul Sudanului
+0732sahara de Vest
 0736Sudan
-0740Suriname
-0744Svalbard and Jan Mayen Islands
+0740Surinam
+0744Insulele Svalbard și Jan Mayen
 0748Swaziland
-0752Sweden
-0756Switzerland
-0760Syrian Arab Republic (Syria)
-0158Taiwan
-0762Tajikistan
-0834Tanzania
-0764Thailand
-0626Timor-Leste
-0768Togo
+0752Suedia
+0756Elveţia
+0760Republica Arabă Siriană (Siria)
+0762Tadjikistan
+0764Tailanda
+0768A merge
 0772Tokelau
 0776Tonga
-0780Trinidad and Tobago
+0780Trinidad și Tobago
+0784Emiratele Arabe Unite
 0788Tunisia
-0792Turkey
+0792Curcan
 0795Turkmenistan
-0796Turks and Caicos Islands
+0796Insulele Turks și Caicos
 0798Tuvalu
 0800Uganda
-0804Ukraine
-0784United Arab Emirates
-0826United Kingdom
-0840United States of America
-0581United States Minor Outlying Islands
+0804Ucraina
+0807Macedonia, Republica
+0818Egipt
+0826Regatul Unit
+0831jachetă
+0832jerseu
+0833insula Barbatului
+0834Tanzania
+0840Statele Unite ale Americii
+0850Insulele Virgine, SUA
+0854Burkina Faso
 0858Uruguay
 0860Uzbekistan
-0548Vanuatu
-0862Venezuela (Bolivarian Republic of)
-0704Viet Nam
-0850Virgin Islands, US
-0876Wallis and Futuna Islands
-0732Western Sahara
+0862Venezuela (Republica Bolivariană)
+0876Insulele Wallis și Futuna
+0882Samoa
 0887Yemen
 0894Zambia
-0716Zimbabwe
