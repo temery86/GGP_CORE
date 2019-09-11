@@ -2794,7 +2794,7 @@ GEN64 "How frequently do you make use of this help?" / "Regular professional hel
 
 GEN64u "times a..." / "Regular professional help with personal care (institutional/ from professional person) Freq [UNIT]" : Ttimeunit, DK, RF, NA
 
-GEN65 "How much do you usually pay for help with personal care?" / "Regular professional help with personal care (institutional/ from professional person) Cost" : 0..365, DK, RF
+GEN65 "How much do you usually pay for help with personal care?" / "Regular professional help with personal care (institutional/ from professional person) Cost" : 0..9999999, DK, RF
 
 GEN65u "times a..." / "Regular professional help with personal care (institutional/ from professional person) Cost [UNIT]" : Ttimeunit, DK, RF
 
