@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Name="ID_setup" Guid="16c8a9dd-9f21-4041-832c-7156f61d8a88" ProjectType="ManipulaProject">
+  <MainFile RelativePath="true">ID_setup.manx</MainFile>
+  <FileItems>
+    <File FileType="ManipulaFileType" RelativePath="true">ID_setup.manx</File>
+    <File FileType="TextFileType" RelativePath="true">InputFileID.txt</File>
+  </FileItems>
+  <Properties>
+    <IncludeSearchPath />
+    <LibrarySearchPath />
+    <DatamodelSearchPath />
+    <ExternalSearchPath />
+    <ConditionalDefines />
+    <ResourceDB />
+    <SurveyRoot />
+    <AppSupport />
+  </Properties>
+</Project>

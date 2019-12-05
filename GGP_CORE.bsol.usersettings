@@ -2,6 +2,16 @@
 <SolutionUserConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <DocumentWindows>
     <OpenedFile>
+      <RelativeFileName>Countries.bmix</RelativeFileName>
+      <IsRelative>true</IsRelative>
+      <ViewTypeName>Meta</ViewTypeName>
+    </OpenedFile>
+    <OpenedFile>
+      <RelativeFileName>Countries_setup.manx</RelativeFileName>
+      <IsRelative>true</IsRelative>
+      <ViewTypeName>Source</ViewTypeName>
+    </OpenedFile>
+    <OpenedFile>
       <RelativeFileName>GGP_CORE.blax</RelativeFileName>
       <IsRelative>true</IsRelative>
       <ViewTypeName>Meta</ViewTypeName>
@@ -11,11 +21,10 @@
   <FileName>C:\Users\TomE\Dropbox (NIDI)\GGP\GGPServer\GGP Core\GGP_CORE\GGP_CORE.bsol</FileName>
   <ExpandedItems>
     <SolutionItem>C:\Users\TomE\Dropbox (NIDI)\GGP\GGPServer\GGP Core\GGP_CORE\GGP_CORE.bproj</SolutionItem>
-    <SolutionItem>C:\Users\TomE\Dropbox (NIDI)\GGP\GGPServer\GGP Core\GGP_CORE\Occupations_setup.bproj</SolutionItem>
-    <SolutionItem>C:\Users\TomE\Dropbox (NIDI)\GGP\GGPServer\GGP Core\GGP_CORE\Countries_setup.bproj</SolutionItem>
   </ExpandedItems>
   <SolutionExplorerSelectedItem>
     <TreeFileType>Solution</TreeFileType>
     <FileName>C:\Users\TomE\Dropbox (NIDI)\GGP\GGPServer\GGP Core\GGP_CORE\GGP_CORE.bsol</FileName>
   </SolutionExplorerSelectedItem>
+  <ConfigurationMode>Production</ConfigurationMode>
 </SolutionUserConfig>

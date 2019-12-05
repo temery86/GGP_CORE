@@ -132,6 +132,11 @@
             <NewPageInstruction Locator="Before" />
           </Instructions>
         </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="DEM20">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
         <RouteItemLayoutInstructions RouteItemName="DEM21">
           <Instructions>
             <NewPageInstruction Locator="Before" />
@@ -314,7 +319,7 @@
     </BlockLayoutInstructions>
     <BlockLayoutInstructions BlockName="LIFEHIST">
       <RouteItemInstructions>
-        <RouteItemLayoutInstructions RouteItemName="LHI01">
+        <RouteItemLayoutInstructions RouteItemName="LHIINT">
           <Instructions>
             <NewPageInstruction Locator="Before" />
           </Instructions>
@@ -4347,6 +4352,11 @@
     </BlockLayoutInstructions>
     <BlockLayoutInstructions BlockName="FERTILITY">
       <RouteItemInstructions>
+        <RouteItemLayoutInstructions RouteItemName="FERINT">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
         <RouteItemLayoutInstructions RouteItemName="FER01a">
           <Instructions>
             <NewPageInstruction Locator="Before" />
@@ -4508,7 +4518,7 @@
     </BlockLayoutInstructions>
     <BlockLayoutInstructions BlockName="HOUSEHOLD">
       <RouteItemInstructions>
-        <RouteItemLayoutInstructions RouteItemName="HHD01">
+        <RouteItemLayoutInstructions RouteItemName="HHDINT">
           <Instructions>
             <NewPageInstruction Locator="Before" />
           </Instructions>
@@ -5289,6 +5299,11 @@
     </BlockLayoutInstructions>
     <BlockLayoutInstructions BlockName="GENERATIONS">
       <RouteItemInstructions>
+        <RouteItemLayoutInstructions RouteItemName="GENINT">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
         <RouteItemLayoutInstructions RouteItemName="GEN01">
           <Instructions>
             <NewPageInstruction Locator="Before" />
@@ -5750,9 +5765,13 @@
     </BlockLayoutInstructions>
     <BlockLayoutInstructions BlockName="WELLBEING">
       <RouteItemInstructions>
-        <RouteItemLayoutInstructions RouteItemName="WEL01">
+        <RouteItemLayoutInstructions RouteItemName="WELINT">
           <Instructions>
             <NewPageInstruction Locator="Before" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="WEL01">
+          <Instructions>
             <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
           </Instructions>
         </RouteItemLayoutInstructions>
@@ -5815,9 +5834,13 @@
     </BlockLayoutInstructions>
     <BlockLayoutInstructions BlockName="WORK">
       <RouteItemInstructions>
-        <RouteItemLayoutInstructions RouteItemName="WRK01">
+        <RouteItemLayoutInstructions RouteItemName="WRKINT">
           <Instructions>
             <NewPageInstruction Locator="Before" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="WRK01">
+          <Instructions>
             <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
             <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
           </Instructions>
@@ -5902,11 +5925,6 @@
           </Instructions>
         </RouteItemLayoutInstructions>
         <RouteItemLayoutInstructions RouteItemName="WRK18">
-          <Instructions>
-            <NewPageInstruction Locator="Before" />
-          </Instructions>
-        </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="WRK19">
           <Instructions>
             <NewPageInstruction Locator="Before" />
           </Instructions>
@@ -6029,7 +6047,7 @@
             <NewPageInstruction Locator="Before" />
           </Instructions>
         </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="WRK43">
+        <RouteItemLayoutInstructions RouteItemName="WRk43">
           <Instructions>
             <NewPageInstruction Locator="Before" />
           </Instructions>
@@ -6110,13 +6128,6 @@
           </Instructions>
         </RouteItemLayoutInstructions>
         <RouteItemLayoutInstructions RouteItemName="INC06">
-          <Instructions>
-            <NewPageInstruction Locator="Before" />
-            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
-            <TemplateInstruction TemplateName="Currency" TemplateTarget="ResponseValue" />
-          </Instructions>
-        </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="INC07">
           <Instructions>
             <NewPageInstruction Locator="Before" />
           </Instructions>
@@ -6203,72 +6214,6 @@
             <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
           </Instructions>
         </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="INC10_[1]">
-          <Instructions>
-            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
-            <TemplateInstruction TemplateName="Currency" TemplateTarget="ResponseValue" />
-          </Instructions>
-        </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="INC10_[2]">
-          <Instructions>
-            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
-            <TemplateInstruction TemplateName="Currency" TemplateTarget="ResponseValue" />
-          </Instructions>
-        </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="INC10_[3]">
-          <Instructions>
-            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
-            <TemplateInstruction TemplateName="Currency" TemplateTarget="ResponseValue" />
-          </Instructions>
-        </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="INC10_[4]">
-          <Instructions>
-            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
-            <TemplateInstruction TemplateName="Currency" TemplateTarget="ResponseValue" />
-          </Instructions>
-        </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="INC10_[5]">
-          <Instructions>
-            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
-            <TemplateInstruction TemplateName="Currency" TemplateTarget="ResponseValue" />
-          </Instructions>
-        </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="INC10_[6]">
-          <Instructions>
-            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
-            <TemplateInstruction TemplateName="Currency" TemplateTarget="ResponseValue" />
-          </Instructions>
-        </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="INC10_[7]">
-          <Instructions>
-            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
-            <TemplateInstruction TemplateName="Currency" TemplateTarget="ResponseValue" />
-          </Instructions>
-        </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="INC10_[8]">
-          <Instructions>
-            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
-            <TemplateInstruction TemplateName="Currency" TemplateTarget="ResponseValue" />
-          </Instructions>
-        </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="INC10_[9]">
-          <Instructions>
-            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
-            <TemplateInstruction TemplateName="Currency" TemplateTarget="ResponseValue" />
-          </Instructions>
-        </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="INC10_[10]">
-          <Instructions>
-            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
-            <TemplateInstruction TemplateName="Currency" TemplateTarget="ResponseValue" />
-          </Instructions>
-        </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="INC10_[11]">
-          <Instructions>
-            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
-            <TemplateInstruction TemplateName="Currency" TemplateTarget="ResponseValue" />
-          </Instructions>
-        </RouteItemLayoutInstructions>
         <RouteItemLayoutInstructions RouteItemName="INC12">
           <Instructions>
             <NewPageInstruction Locator="Before" />
@@ -6278,7 +6223,7 @@
     </BlockLayoutInstructions>
     <BlockLayoutInstructions BlockName="ATTITUDES">
       <RouteItemInstructions>
-        <RouteItemLayoutInstructions RouteItemName="ATT01">
+        <RouteItemLayoutInstructions RouteItemName="ATTINT">
           <Instructions>
             <NewPageInstruction Locator="Before" />
           </Instructions>
@@ -6310,6 +6255,16 @@
             <NewPageInstruction Locator="Before" />
           </Instructions>
         </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="ATT11a">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="ATT11c">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
         <RouteItemLayoutInstructions RouteItemName="ATT08">
           <Instructions>
             <NewPageInstruction Locator="Before" />
@@ -6325,6 +6280,18 @@
         <RouteItemLayoutInstructions RouteItemName="ATT10">
           <Instructions>
             <NewPageInstruction Locator="Before" />
+            <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
+            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="ATT11b">
+          <Instructions>
+            <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
+            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="ATT11d">
+          <Instructions>
             <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
             <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
           </Instructions>
@@ -6400,5 +6367,4 @@
     <LayoutSpecFieldReference Name="InterviewerID" />
     <LayoutSpecFieldReference Name="CaseID" />
   </LayoutSpecFieldReferences>
-  <FunctionDeclarations />
 </LayoutSpecification>

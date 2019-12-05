@@ -1,0 +1,17 @@
+﻿SETUP ID
+  SETTINGS
+    DESCRIPTION = "My Manipula Setup"
+
+  USES
+    MyMeta 'ID.bmix'
+
+  INPUTFILE
+    MyInputFile: MyMeta ('C:\Users\TomE\Dropbox (NIDI)\GGP\GGPServer\GGP Core\GGP_CORE\InputFileID.txt', ASCII)
+
+  OUTPUTFILE
+    MyOutputFile: MyMeta ('ID.bdbx', BLAISE)
+
+  MANIPULATE
+    MyOutputFile.WRITE
+
+END
