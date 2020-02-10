@@ -1,22 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SolutionUserConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <DocumentWindows>
-    <OpenedFile>
-      <RelativeFileName>Countries_setup.manx</RelativeFileName>
-      <IsRelative>true</IsRelative>
-      <ViewTypeName>Source</ViewTypeName>
-    </OpenedFile>
-    <OpenedFile>
-      <RelativeFileName>CountriesTest.blax</RelativeFileName>
-      <IsRelative>true</IsRelative>
-      <ViewTypeName>Source</ViewTypeName>
-    </OpenedFile>
-    <OpenedFile>
-      <RelativeFileName>Countries.blax</RelativeFileName>
-      <IsRelative>true</IsRelative>
-      <ViewTypeName>Source</ViewTypeName>
-    </OpenedFile>
-  </DocumentWindows>
-  <ActiveFileName>CountriesTest.blax</ActiveFileName>
-  <FileName>C:\Users\TomE\Dropbox\GGPServer\GGP Core\GGP_CORE\Countries.bsol</FileName>
+  <FileName>C:\Users\TomE\Dropbox (NIDI)\GGP\GGPServer\GGP Core\GGP_CORE\Countries.bsol</FileName>
+  <ExpandedItems>
+    <SolutionItem>C:\Users\TomE\Dropbox (NIDI)\GGP\GGPServer\GGP Core\GGP_CORE\Countries.bproj</SolutionItem>
+    <SolutionItem>C:\Users\TomE\Dropbox (NIDI)\GGP\GGPServer\GGP Core\GGP_CORE\CountriesTest.bproj</SolutionItem>
+  </ExpandedItems>
+  <SolutionExplorerSelectedItem>
+    <TreeFileType>Project</TreeFileType>
+    <FileName>C:\Users\TomE\Dropbox (NIDI)\GGP\GGPServer\GGP Core\GGP_CORE\Countries.bproj</FileName>
+  </SolutionExplorerSelectedItem>
 </SolutionUserConfig>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SolutionUserConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DocumentWindows>
+    <OpenedFile>
+      <RelativeFileName>Countries_setup.manx</RelativeFileName>
+      <IsRelative>true</IsRelative>
+      <ViewTypeName>Source</ViewTypeName>
+    </OpenedFile>
+  </DocumentWindows>
+  <ActiveFileName>Countries_setup.manx</ActiveFileName>
+  <FileName>C:\Users\TomE\Dropbox (NIDI)\GGP\GGPServer\GGP Core\GGP_CORE\Countries_setup.bsol</FileName>
+  <ExpandedItems>
+    <SolutionItem>C:\Users\TomE\Dropbox (NIDI)\GGP\GGPServer\GGP Core\GGP_CORE\Countries_setup.bproj</SolutionItem>
+  </ExpandedItems>
+  <SolutionExplorerSelectedItem>
+    <TreeFileType>Project</TreeFileType>
+    <FileName>C:\Users\TomE\Dropbox (NIDI)\GGP\GGPServer\GGP Core\GGP_CORE\Countries_setup.bproj</FileName>
+  </SolutionExplorerSelectedItem>
+</SolutionUserConfig>

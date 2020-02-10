@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LayoutSpecification xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="GGP" Version="9" GenerateAllSections="true" GenerateClientRules="true">
+<LayoutSpecification xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="GGP" Version="10" GenerateAllSections="true" GenerateClientRules="true" UseGenericPages="false">
   <InstanceLayoutInstructions>
     <RouteItemLayoutInstructions RouteItemName="intro">
       <Instructions>
@@ -132,6 +132,11 @@
             <NewPageInstruction Locator="Before" />
           </Instructions>
         </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="DEM20">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
         <RouteItemLayoutInstructions RouteItemName="DEM21">
           <Instructions>
             <NewPageInstruction Locator="Before" />
@@ -253,7 +258,13 @@
             <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
           </Instructions>
         </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="DEM36">
+        <RouteItemLayoutInstructions RouteItemName="DEM36a">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+            <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="DEM36b">
           <Instructions>
             <NewPageInstruction Locator="Before" />
             <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
@@ -314,7 +325,7 @@
     </BlockLayoutInstructions>
     <BlockLayoutInstructions BlockName="LIFEHIST">
       <RouteItemInstructions>
-        <RouteItemLayoutInstructions RouteItemName="LHI01">
+        <RouteItemLayoutInstructions RouteItemName="LHIINT">
           <Instructions>
             <NewPageInstruction Locator="Before" />
           </Instructions>
@@ -3908,140 +3919,280 @@
             <NewPageInstruction Locator="Before" />
           </Instructions>
         </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="LHI39_[1]">
+        <RouteItemLayoutInstructions RouteItemName="LHI39a_[1]">
           <Instructions>
             <NewPageInstruction Locator="Before" />
             <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
             <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
           </Instructions>
         </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="LHI39_[2]">
+        <RouteItemLayoutInstructions RouteItemName="LHI39a_[2]">
           <Instructions>
             <NewPageInstruction Locator="Before" />
             <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
             <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
           </Instructions>
         </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="LHI39_[3]">
+        <RouteItemLayoutInstructions RouteItemName="LHI39a_[3]">
           <Instructions>
             <NewPageInstruction Locator="Before" />
             <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
             <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
           </Instructions>
         </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="LHI39_[4]">
+        <RouteItemLayoutInstructions RouteItemName="LHI39a_[4]">
           <Instructions>
             <NewPageInstruction Locator="Before" />
             <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
             <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
           </Instructions>
         </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="LHI39_[5]">
+        <RouteItemLayoutInstructions RouteItemName="LHI39a_[5]">
           <Instructions>
             <NewPageInstruction Locator="Before" />
             <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
             <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
           </Instructions>
         </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="LHI39_[6]">
+        <RouteItemLayoutInstructions RouteItemName="LHI39a_[6]">
           <Instructions>
             <NewPageInstruction Locator="Before" />
             <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
             <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
           </Instructions>
         </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="LHI39_[7]">
+        <RouteItemLayoutInstructions RouteItemName="LHI39a_[7]">
           <Instructions>
             <NewPageInstruction Locator="Before" />
             <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
             <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
           </Instructions>
         </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="LHI39_[8]">
+        <RouteItemLayoutInstructions RouteItemName="LHI39a_[8]">
           <Instructions>
             <NewPageInstruction Locator="Before" />
             <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
             <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
           </Instructions>
         </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="LHI39_[9]">
+        <RouteItemLayoutInstructions RouteItemName="LHI39a_[9]">
           <Instructions>
             <NewPageInstruction Locator="Before" />
             <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
             <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
           </Instructions>
         </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="LHI39_[10]">
+        <RouteItemLayoutInstructions RouteItemName="LHI39a_[10]">
           <Instructions>
             <NewPageInstruction Locator="Before" />
             <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
             <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
           </Instructions>
         </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="LHI39_[11]">
+        <RouteItemLayoutInstructions RouteItemName="LHI39a_[11]">
           <Instructions>
             <NewPageInstruction Locator="Before" />
             <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
             <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
           </Instructions>
         </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="LHI39_[12]">
+        <RouteItemLayoutInstructions RouteItemName="LHI39a_[12]">
           <Instructions>
             <NewPageInstruction Locator="Before" />
             <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
             <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
           </Instructions>
         </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="LHI39_[13]">
+        <RouteItemLayoutInstructions RouteItemName="LHI39a_[13]">
           <Instructions>
             <NewPageInstruction Locator="Before" />
             <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
             <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
           </Instructions>
         </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="LHI39_[14]">
+        <RouteItemLayoutInstructions RouteItemName="LHI39a_[14]">
           <Instructions>
             <NewPageInstruction Locator="Before" />
             <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
             <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
           </Instructions>
         </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="LHI39_[15]">
+        <RouteItemLayoutInstructions RouteItemName="LHI39a_[15]">
           <Instructions>
             <NewPageInstruction Locator="Before" />
             <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
             <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
           </Instructions>
         </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="LHI39_[16]">
+        <RouteItemLayoutInstructions RouteItemName="LHI39a_[16]">
           <Instructions>
             <NewPageInstruction Locator="Before" />
             <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
             <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
           </Instructions>
         </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="LHI39_[17]">
+        <RouteItemLayoutInstructions RouteItemName="LHI39a_[17]">
           <Instructions>
             <NewPageInstruction Locator="Before" />
             <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
             <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
           </Instructions>
         </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="LHI39_[18]">
+        <RouteItemLayoutInstructions RouteItemName="LHI39a_[18]">
           <Instructions>
             <NewPageInstruction Locator="Before" />
             <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
             <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
           </Instructions>
         </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="LHI39_[19]">
+        <RouteItemLayoutInstructions RouteItemName="LHI39a_[19]">
           <Instructions>
             <NewPageInstruction Locator="Before" />
             <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
             <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
           </Instructions>
         </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="LHI39_[20]">
+        <RouteItemLayoutInstructions RouteItemName="LHI39a_[20]">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+            <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
+            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="LHI39b_[1]">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+            <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
+            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="LHI39b_[2]">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+            <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
+            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="LHI39b_[3]">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+            <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
+            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="LHI39b_[4]">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+            <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
+            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="LHI39b_[5]">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+            <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
+            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="LHI39b_[6]">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+            <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
+            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="LHI39b_[7]">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+            <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
+            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="LHI39b_[8]">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+            <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
+            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="LHI39b_[9]">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+            <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
+            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="LHI39b_[10]">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+            <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
+            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="LHI39b_[11]">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+            <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
+            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="LHI39b_[12]">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+            <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
+            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="LHI39b_[13]">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+            <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
+            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="LHI39b_[14]">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+            <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
+            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="LHI39b_[15]">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+            <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
+            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="LHI39b_[16]">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+            <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
+            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="LHI39b_[17]">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+            <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
+            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="LHI39b_[18]">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+            <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
+            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="LHI39b_[19]">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+            <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
+            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="LHI39b_[20]">
           <Instructions>
             <NewPageInstruction Locator="Before" />
             <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
@@ -4328,25 +4479,15 @@
             <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
           </Instructions>
         </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="LHI42">
-          <Instructions>
-            <NewPageInstruction Locator="Before" />
-          </Instructions>
-        </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="LHI43">
-          <Instructions>
-            <NewPageInstruction Locator="Before" />
-          </Instructions>
-        </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="LHI44">
-          <Instructions>
-            <NewPageInstruction Locator="Before" />
-          </Instructions>
-        </RouteItemLayoutInstructions>
       </RouteItemInstructions>
     </BlockLayoutInstructions>
     <BlockLayoutInstructions BlockName="FERTILITY">
       <RouteItemInstructions>
+        <RouteItemLayoutInstructions RouteItemName="FERINT">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
         <RouteItemLayoutInstructions RouteItemName="FER01a">
           <Instructions>
             <NewPageInstruction Locator="Before" />
@@ -4480,35 +4621,46 @@
           <Instructions>
             <NewPageInstruction Locator="Before" />
             <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
-            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
           </Instructions>
         </RouteItemLayoutInstructions>
         <RouteItemLayoutInstructions RouteItemName="FER22">
           <Instructions>
             <NewPageInstruction Locator="Before" />
             <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
-            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
           </Instructions>
         </RouteItemLayoutInstructions>
         <RouteItemLayoutInstructions RouteItemName="FER23">
           <Instructions>
             <NewPageInstruction Locator="Before" />
             <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
-            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
           </Instructions>
         </RouteItemLayoutInstructions>
         <RouteItemLayoutInstructions RouteItemName="FER24">
           <Instructions>
             <NewPageInstruction Locator="Before" />
             <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
-            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="FER25">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="FER26">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="FER27">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
           </Instructions>
         </RouteItemLayoutInstructions>
       </RouteItemInstructions>
     </BlockLayoutInstructions>
     <BlockLayoutInstructions BlockName="HOUSEHOLD">
       <RouteItemInstructions>
-        <RouteItemLayoutInstructions RouteItemName="HHD01">
+        <RouteItemLayoutInstructions RouteItemName="HHDINT">
           <Instructions>
             <NewPageInstruction Locator="Before" />
           </Instructions>
@@ -5289,6 +5441,11 @@
     </BlockLayoutInstructions>
     <BlockLayoutInstructions BlockName="GENERATIONS">
       <RouteItemInstructions>
+        <RouteItemLayoutInstructions RouteItemName="GENINT">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
         <RouteItemLayoutInstructions RouteItemName="GEN01">
           <Instructions>
             <NewPageInstruction Locator="Before" />
@@ -5368,7 +5525,12 @@
             <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='75'}" />
           </Instructions>
         </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="GEN15">
+        <RouteItemLayoutInstructions RouteItemName="GEN15a">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="GEN15b">
           <Instructions>
             <NewPageInstruction Locator="Before" />
           </Instructions>
@@ -5449,7 +5611,14 @@
             <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='75'}" />
           </Instructions>
         </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="GEN29">
+        <RouteItemLayoutInstructions RouteItemName="GEN29a">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
+            <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="GEN29b">
           <Instructions>
             <NewPageInstruction Locator="Before" />
             <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
@@ -5570,7 +5739,6 @@
         <RouteItemLayoutInstructions RouteItemName="GEN44b">
           <Instructions>
             <NewPageInstruction Locator="Before" />
-            <TemplateInstruction TemplateName="DropDownList" TemplateTarget="DataValue" />
           </Instructions>
         </RouteItemLayoutInstructions>
         <RouteItemLayoutInstructions RouteItemName="GEN45">
@@ -5729,30 +5897,17 @@
             <NewPageInstruction Locator="Before" />
           </Instructions>
         </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="GEN72">
-          <Instructions>
-            <NewPageInstruction Locator="Before" />
-          </Instructions>
-        </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="GEN73_">
-          <Instructions>
-            <NewPageInstruction Locator="Before" />
-          </Instructions>
-        </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="GEN74">
-          <Instructions>
-            <NewPageInstruction Locator="Before" />
-            <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
-            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
-          </Instructions>
-        </RouteItemLayoutInstructions>
       </RouteItemInstructions>
     </BlockLayoutInstructions>
     <BlockLayoutInstructions BlockName="WELLBEING">
       <RouteItemInstructions>
-        <RouteItemLayoutInstructions RouteItemName="WEL01">
+        <RouteItemLayoutInstructions RouteItemName="WELINT">
           <Instructions>
             <NewPageInstruction Locator="Before" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="WEL01">
+          <Instructions>
             <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
           </Instructions>
         </RouteItemLayoutInstructions>
@@ -5815,9 +5970,13 @@
     </BlockLayoutInstructions>
     <BlockLayoutInstructions BlockName="WORK">
       <RouteItemInstructions>
-        <RouteItemLayoutInstructions RouteItemName="WRK01">
+        <RouteItemLayoutInstructions RouteItemName="WRKINT">
           <Instructions>
             <NewPageInstruction Locator="Before" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="WRK01">
+          <Instructions>
             <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
             <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
           </Instructions>
@@ -5891,7 +6050,12 @@
             <NewPageInstruction Locator="Before" />
           </Instructions>
         </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="WRK16">
+        <RouteItemLayoutInstructions RouteItemName="WRK16a">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="WRK16b">
           <Instructions>
             <NewPageInstruction Locator="Before" />
           </Instructions>
@@ -5902,11 +6066,6 @@
           </Instructions>
         </RouteItemLayoutInstructions>
         <RouteItemLayoutInstructions RouteItemName="WRK18">
-          <Instructions>
-            <NewPageInstruction Locator="Before" />
-          </Instructions>
-        </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="WRK19">
           <Instructions>
             <NewPageInstruction Locator="Before" />
           </Instructions>
@@ -5972,6 +6131,13 @@
             <NewPageInstruction Locator="Before" />
           </Instructions>
         </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="WRK30a">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
+            <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
         <RouteItemLayoutInstructions RouteItemName="WRK31">
           <Instructions>
             <NewPageInstruction Locator="Before" />
@@ -6029,7 +6195,7 @@
             <NewPageInstruction Locator="Before" />
           </Instructions>
         </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="WRK43">
+        <RouteItemLayoutInstructions RouteItemName="WRk43">
           <Instructions>
             <NewPageInstruction Locator="Before" />
           </Instructions>
@@ -6099,6 +6265,23 @@
             <NewPageInstruction Locator="Before" />
           </Instructions>
         </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="INC13">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="INC14_">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="INC15">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+            <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
+            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
         <RouteItemLayoutInstructions RouteItemName="INC04">
           <Instructions>
             <NewPageInstruction Locator="Before" />
@@ -6110,13 +6293,6 @@
           </Instructions>
         </RouteItemLayoutInstructions>
         <RouteItemLayoutInstructions RouteItemName="INC06">
-          <Instructions>
-            <NewPageInstruction Locator="Before" />
-            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
-            <TemplateInstruction TemplateName="Currency" TemplateTarget="ResponseValue" />
-          </Instructions>
-        </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="INC07">
           <Instructions>
             <NewPageInstruction Locator="Before" />
           </Instructions>
@@ -6203,72 +6379,6 @@
             <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
           </Instructions>
         </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="INC10_[1]">
-          <Instructions>
-            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
-            <TemplateInstruction TemplateName="Currency" TemplateTarget="ResponseValue" />
-          </Instructions>
-        </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="INC10_[2]">
-          <Instructions>
-            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
-            <TemplateInstruction TemplateName="Currency" TemplateTarget="ResponseValue" />
-          </Instructions>
-        </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="INC10_[3]">
-          <Instructions>
-            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
-            <TemplateInstruction TemplateName="Currency" TemplateTarget="ResponseValue" />
-          </Instructions>
-        </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="INC10_[4]">
-          <Instructions>
-            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
-            <TemplateInstruction TemplateName="Currency" TemplateTarget="ResponseValue" />
-          </Instructions>
-        </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="INC10_[5]">
-          <Instructions>
-            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
-            <TemplateInstruction TemplateName="Currency" TemplateTarget="ResponseValue" />
-          </Instructions>
-        </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="INC10_[6]">
-          <Instructions>
-            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
-            <TemplateInstruction TemplateName="Currency" TemplateTarget="ResponseValue" />
-          </Instructions>
-        </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="INC10_[7]">
-          <Instructions>
-            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
-            <TemplateInstruction TemplateName="Currency" TemplateTarget="ResponseValue" />
-          </Instructions>
-        </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="INC10_[8]">
-          <Instructions>
-            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
-            <TemplateInstruction TemplateName="Currency" TemplateTarget="ResponseValue" />
-          </Instructions>
-        </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="INC10_[9]">
-          <Instructions>
-            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
-            <TemplateInstruction TemplateName="Currency" TemplateTarget="ResponseValue" />
-          </Instructions>
-        </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="INC10_[10]">
-          <Instructions>
-            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
-            <TemplateInstruction TemplateName="Currency" TemplateTarget="ResponseValue" />
-          </Instructions>
-        </RouteItemLayoutInstructions>
-        <RouteItemLayoutInstructions RouteItemName="INC10_[11]">
-          <Instructions>
-            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
-            <TemplateInstruction TemplateName="Currency" TemplateTarget="ResponseValue" />
-          </Instructions>
-        </RouteItemLayoutInstructions>
         <RouteItemLayoutInstructions RouteItemName="INC12">
           <Instructions>
             <NewPageInstruction Locator="Before" />
@@ -6278,7 +6388,7 @@
     </BlockLayoutInstructions>
     <BlockLayoutInstructions BlockName="ATTITUDES">
       <RouteItemInstructions>
-        <RouteItemLayoutInstructions RouteItemName="ATT01">
+        <RouteItemLayoutInstructions RouteItemName="ATTINT">
           <Instructions>
             <NewPageInstruction Locator="Before" />
           </Instructions>
@@ -6310,6 +6420,16 @@
             <NewPageInstruction Locator="Before" />
           </Instructions>
         </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="ATT11a">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="ATT11c">
+          <Instructions>
+            <NewPageInstruction Locator="Before" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
         <RouteItemLayoutInstructions RouteItemName="ATT08">
           <Instructions>
             <NewPageInstruction Locator="Before" />
@@ -6325,6 +6445,18 @@
         <RouteItemLayoutInstructions RouteItemName="ATT10">
           <Instructions>
             <NewPageInstruction Locator="Before" />
+            <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
+            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="ATT11b">
+          <Instructions>
+            <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
+            <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="ATT11d">
+          <Instructions>
             <TemplateInstruction TemplateName="NumberTextBox" TemplateTarget="ResponseValue" Parameters="{ParameterValues Width='55'}" />
             <TemplateInstruction TemplateName="SpecialAnswerGridAbreast" TemplateTarget="DataValue" />
           </Instructions>
@@ -6356,15 +6488,30 @@
   </Languages>
   <LayoutSets>
     <LayoutSet Name="Interviewing1" ResourceSetName="Large" StyleName="Indigo" RequiredStyle="false" DesignHeight="600" DesignWidth="800" ResizeMode="Auto" RouteItemsPerPage="4" RowsPerTable="999" ReceiptPageName="Default" IntroPageName="" AbortPageName="Default">
+      <InstanceLayoutInstructions>
+        <RouteItemLayoutInstructions RouteItemName="respid">
+          <Instructions>
+            <GridInstruction Locator="Before" RouteItemsPerPage="10" />
+          </Instructions>
+        </RouteItemLayoutInstructions>
+      </InstanceLayoutInstructions>
       <Parallels>
-        <Parallel Name="" />
-        <Parallel Name="PRIMARY" />
+        <Parallel Name="">
+          <IsGeneric>false</IsGeneric>
+        </Parallel>
+        <Parallel Name="PRIMARY">
+          <IsGeneric>false</IsGeneric>
+        </Parallel>
       </Parallels>
     </LayoutSet>
     <LayoutSet Name="INTERVIEWER-LayoutSet" ResourceSetName="Large" StyleName="Indigo" RequiredStyle="false" DesignHeight="600" DesignWidth="800" ResizeMode="Auto" RouteItemsPerPage="4" RowsPerTable="999" ReceiptPageName="" IntroPageName="" AbortPageName="">
       <Parallels>
-        <Parallel Name="" />
-        <Parallel Name="PRIMARY" />
+        <Parallel Name="">
+          <IsGeneric>false</IsGeneric>
+        </Parallel>
+        <Parallel Name="PRIMARY">
+          <IsGeneric>false</IsGeneric>
+        </Parallel>
       </Parallels>
     </LayoutSet>
   </LayoutSets>
@@ -6400,5 +6547,4 @@
     <LayoutSpecFieldReference Name="InterviewerID" />
     <LayoutSpecFieldReference Name="CaseID" />
   </LayoutSpecFieldReferences>
-  <FunctionDeclarations />
 </LayoutSpecification>
